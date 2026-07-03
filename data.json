@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T18:52:11.485182+00:00",
+ "generated_at": "2026-07-03T18:53:20.998659+00:00",
  "mode": "paper",
  "strategy": {
   "version": 1,
@@ -17,11 +17,11 @@
  },
  "strategy_history": [],
  "portfolio": {
-  "cash": 450.0,
-  "positions_value": 510.39,
-  "total": 960.39,
+  "cash": 400.0,
+  "positions_value": 562.89,
+  "total": 962.89,
   "starting": 1000.0,
-  "pnl": -39.61,
+  "pnl": -37.11,
   "positions": [
    {
     "title": "Will the highest temperature in Istanbul be 28\u00b0C on July 3?",
@@ -112,6 +112,33 @@
     "cur_price": 0.9995,
     "value": 15.03,
     "pnl": 5.03
+   },
+   {
+    "title": "Will the highest temperature in Toronto be 34\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 23.26,
+    "avg_price": 0.43,
+    "cur_price": 0.51,
+    "value": 11.86,
+    "pnl": 1.86
+   },
+   {
+    "title": "Will the highest temperature in Mexico City be 24\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 24.1,
+    "avg_price": 0.415,
+    "cur_price": 0.445,
+    "value": 10.72,
+    "pnl": 0.72
+   },
+   {
+    "title": "Will the highest temperature in Toronto be 35\u00b0C on July 3?",
+    "outcome": "Yes",
+    "shares": 83.33,
+    "avg_price": 0.12,
+    "cur_price": 0.1205,
+    "value": 10.04,
+    "pnl": 0.04
    },
    {
     "title": "Will the highest temperature in Toronto be 34\u00b0C on July 2?",
@@ -411,13 +438,31 @@
     "pnl": 0.0
    },
    {
+    "title": "Will the highest temperature in Buenos Aires be 10\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 181.82,
+    "avg_price": 0.055,
+    "cur_price": 0.055,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Mexico City be 25\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 16.39,
+    "avg_price": 0.61,
+    "cur_price": 0.61,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
     "title": "Will the highest temperature in London be 27\u00b0C on July 3?",
     "outcome": "No",
     "shares": 15.75,
     "avg_price": 0.635,
-    "cur_price": 0.0455,
-    "value": 0.72,
-    "pnl": -9.28
+    "cur_price": 0.0375,
+    "value": 0.59,
+    "pnl": -9.41
    },
    {
     "title": "Will the highest temperature in Hong Kong be 29\u00b0C on July 3?",
@@ -523,7 +568,7 @@
  "stats": {
   "news": {
    "settled": 0,
-   "open": 55,
+   "open": 60,
    "wins": 0,
    "win_rate": null,
    "pnl": 0
@@ -1196,6 +1241,66 @@
    "usd": 10.0,
    "copied_from": "news:forecast",
    "trader_tx": "news-a9e65f4129c0"
+  },
+  {
+   "ts": 1783104765,
+   "side": "BUY",
+   "token": "10977622098401450179012666971161538330331083202743554435992543984972404482407",
+   "title": "Will the highest temperature in Buenos Aires be 10\u00b0C on July 3?",
+   "outcome": "No",
+   "price": 0.055,
+   "shares": 181.8182,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-ec6be50458a0"
+  },
+  {
+   "ts": 1783104765,
+   "side": "BUY",
+   "token": "97935180324550203790748151209129091556690993667417985836118114520618821950686",
+   "title": "Will the highest temperature in Toronto be 34\u00b0C on July 3?",
+   "outcome": "No",
+   "price": 0.43,
+   "shares": 23.2558,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-a166ca87268d"
+  },
+  {
+   "ts": 1783104765,
+   "side": "BUY",
+   "token": "2251274432580716322431158530676083226358777568450680226004574141749597696928",
+   "title": "Will the highest temperature in Toronto be 35\u00b0C on July 3?",
+   "outcome": "Yes",
+   "price": 0.12,
+   "shares": 83.3333,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-22df118beedc"
+  },
+  {
+   "ts": 1783104767,
+   "side": "BUY",
+   "token": "104433795053218387732754379920625627466231523707185063665801007636243343433874",
+   "title": "Will the highest temperature in Mexico City be 24\u00b0C on July 3?",
+   "outcome": "No",
+   "price": 0.415,
+   "shares": 24.0964,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-9eb4d6ee84ec"
+  },
+  {
+   "ts": 1783104767,
+   "side": "BUY",
+   "token": "6965594892087778291725720878008153666202824374254700532420279020779556270987",
+   "title": "Will the highest temperature in Mexico City be 25\u00b0C on July 3?",
+   "outcome": "No",
+   "price": 0.61,
+   "shares": 16.3934,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-57f00b1d585a"
   }
  ],
  "journal": [
@@ -2738,33 +2843,173 @@
    },
    "status": "open",
    "pnl": null
+  },
+  {
+   "ts": 1783104765,
+   "date": "2026-07-03",
+   "signal": "news",
+   "strategy_version": 1,
+   "token": "10977622098401450179012666971161538330331083202743554435992543984972404482407",
+   "market_slug": "highest-temperature-in-buenos-aires-on-july-3-2026-10c",
+   "question": "Will the highest temperature in Buenos Aires be 10\u00b0C on July 3?",
+   "side": "NO",
+   "entry_price": 0.055,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 8.4,
+    "sigma": 1.2,
+    "model_p": 0.8604,
+    "market_p": 0.055,
+    "edge": 0.8054,
+    "lead_days": 0,
+    "city": "Buenos Aires",
+    "unit": "C",
+    "bucket": [
+     9.5,
+     10.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
+  },
+  {
+   "ts": 1783104765,
+   "date": "2026-07-03",
+   "signal": "news",
+   "strategy_version": 1,
+   "token": "97935180324550203790748151209129091556690993667417985836118114520618821950686",
+   "market_slug": "highest-temperature-in-toronto-on-july-3-2026-34c",
+   "question": "Will the highest temperature in Toronto be 34\u00b0C on July 3?",
+   "side": "NO",
+   "entry_price": 0.435,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 34.1,
+    "sigma": 1.2,
+    "model_p": 0.678,
+    "market_p": 0.435,
+    "edge": 0.243,
+    "lead_days": 0,
+    "city": "Toronto",
+    "unit": "C",
+    "bucket": [
+     33.5,
+     34.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
+  },
+  {
+   "ts": 1783104765,
+   "date": "2026-07-03",
+   "signal": "news",
+   "strategy_version": 1,
+   "token": "2251274432580716322431158530676083226358777568450680226004574141749597696928",
+   "market_slug": "highest-temperature-in-toronto-on-july-3-2026-35c",
+   "question": "Will the highest temperature in Toronto be 35\u00b0C on July 3?",
+   "side": "YES",
+   "entry_price": 0.12,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 34.1,
+    "sigma": 1.2,
+    "model_p": 0.2478,
+    "market_p": 0.12,
+    "edge": 0.1278,
+    "lead_days": 0,
+    "city": "Toronto",
+    "unit": "C",
+    "bucket": [
+     34.5,
+     35.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
+  },
+  {
+   "ts": 1783104767,
+   "date": "2026-07-03",
+   "signal": "news",
+   "strategy_version": 1,
+   "token": "104433795053218387732754379920625627466231523707185063665801007636243343433874",
+   "market_slug": "highest-temperature-in-mexico-city-on-july-3-2026-24c",
+   "question": "Will the highest temperature in Mexico City be 24\u00b0C on July 3?",
+   "side": "NO",
+   "entry_price": 0.435,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 23.2,
+    "sigma": 1.2,
+    "model_p": 0.738,
+    "market_p": 0.435,
+    "edge": 0.303,
+    "lead_days": 0,
+    "city": "Mexico City",
+    "unit": "C",
+    "bucket": [
+     23.5,
+     24.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
+  },
+  {
+   "ts": 1783104767,
+   "date": "2026-07-03",
+   "signal": "news",
+   "strategy_version": 1,
+   "token": "6965594892087778291725720878008153666202824374254700532420279020779556270987",
+   "market_slug": "highest-temperature-in-mexico-city-on-july-3-2026-25c",
+   "question": "Will the highest temperature in Mexico City be 25\u00b0C on July 3?",
+   "side": "NO",
+   "entry_price": 0.61,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 23.2,
+    "sigma": 1.2,
+    "model_p": 0.8883,
+    "market_p": 0.61,
+    "edge": 0.2783,
+    "lead_days": 0,
+    "city": "Mexico City",
+    "unit": "C",
+    "bucket": [
+     24.5,
+     25.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
   }
  ],
  "headlines": [
   {
-   "ts": 1783039359,
+   "ts": 1783104768,
    "kind": "headlines",
    "items": [
     "Google News",
+    "Fourth of July weekend brings more dangerous heat across the Mid-South - FOX13 Memphis",
+    "El Ni\u00f1o is forecast to intensify, increasing likelihood of extreme weather - World Meteorological Organization WMO",
+    "El Ni\u00f1o forecast to intensify, increasing likelihood of extreme weather - UN News",
+    "ALERT DAY: Strong storm chances continue into the holiday weekend | Latest Weather Forecast - Channel 3000",
+    "Atmospheric Code Red: 2026 Super El Ni\u00f1o Now Trending Toward Record-Breaking Intensity - Severe Weather Europe",
+    "Isolated storm chances on the rise for the Holiday weekend - News On 6",
+    "UN warns likelihood of \u2018extreme weather events\u2019 as El Nino set to intensify - Al Jazeera",
+    "Blistering Heat Puts Damper on Some Fourth of July Events - The New York Times",
+    "23 states placed under 'extreme heat warning' by National Weather Service for Fourth of July weekend - ABC10",
+    "The extreme heat is still on for 4th of July in Kansas City. Storms could follow - Kansas City Star",
+    "Severe weather in the Chicago forecast in coming days - NBC 5 Chicago",
+    "Dangerous heat continues going into Fourth of July weekend - FOX13 Memphis",
+    "Extreme heat continues Friday before storms impact Fourth of July holiday weekend in Metro Detroit - ClickOnDetroit | WDIV Local 4",
+    "Extreme weather more likely in the coming months: WMO - China Daily",
+    "El Ni\u00f1o is forecast to intensify, increasing likelihood of extreme weather - World Meteorological Organization WMO",
     "ALERT DAY: Strong storm chances continue into the overnight - Channel 3000",
-    "Chicago weather forecast: NWS Extreme Heat Warning continues for area Thursday; storms possible - ABC7 Chicago",
-    "Happy 250th USA! Here's your July 4th weekend forecast - NOAA (.gov)",
-    "Another hot day with a few chances for showers and thunderstorms. Details here! - News 9",
-    "Hot and muggy Thursday for Green Country with isolated storm chances - News On 6",
-    "Will it be stormy or dry for July Fourth fireworks where you live? - The Washington Post",
-    "FIRST ALERT DAY - Tracking storm threat for Thursday night - WMTV 15 NEWS",
-    "Scorching heat wave brings 100-degree feels-like temperatures for 4th of July weekend - WTAE",
-    "First Alert: Record temperatures in Boston with severe thunderstorm warnings in NH - NBC Boston",
-    "Extreme heat warning: More intense heat before rain impacts 4th of July weekend - WLWT",
-    "The Fourth of July U.S. heat wave, in seven diagrams, charts and maps - NBC News",
-    "Extreme Heat Warning continues Friday and Saturday, heat index over 110\u00b0 - WTVR.com",
-    "Tour de France braced for historic stage cancellations amid 44C European heatwave - The Guardian",
-    "ALERT DAY: Strong storm chances continue into the overnight - Channel 3000",
-    "A scorching stretch for D.C. begins. How hot will it get? - The Washington Post",
-    "ALERT DAY: Strong storm chances this afternoon and evening | Latest Weather Forecast - Channel 3000",
-    "ALERT DAY: Dangerous heat and strong storm chances | Latest Weather Forecast - Channel 3000",
-    "ALERT DAYs: Extreme heat Monday through Thursday | Latest Weather Forecast - Channel 3000",
-    "Northeast Ohio faces another brush with 100 as extreme heat continues - Cleveland.com"
+    "Thursday expected to be hottest day of week as Severe Weather Days remain - FOX13 Memphis",
+    "One more day of extreme heat for Metro Detroit on Friday; strong storms also possible - ClickOnDetroit | WDIV Local 4",
+    "El Nino to intensify in coming months, raising risk of extreme weather worldwide: UN weather agency - Anadolu Ajans\u0131"
    ]
   }
  ]
