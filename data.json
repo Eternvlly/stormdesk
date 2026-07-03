@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T22:34:43.442980+00:00",
+ "generated_at": "2026-07-03T22:44:54.676584+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -18,10 +18,10 @@
  "strategy_history": [],
  "portfolio": {
   "cash": 400.0,
-  "positions_value": 653.57,
-  "total": 1053.57,
+  "positions_value": 646.9,
+  "total": 1046.9,
   "starting": 1000.0,
-  "pnl": 53.57,
+  "pnl": 46.9,
   "positions": [
    {
     "title": "Will the highest temperature in Toronto be 35\u00b0C on July 3?",
@@ -42,15 +42,6 @@
     "pnl": 13.24
    },
    {
-    "title": "Will the highest temperature in Munich be 24\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 19.05,
-    "avg_price": 0.525,
-    "cur_price": 0.9995,
-    "value": 19.04,
-    "pnl": 9.04
-   },
-   {
     "title": "Will the highest temperature in London be 26\u00b0C on July 3?",
     "outcome": "No",
     "shares": 18.87,
@@ -58,15 +49,6 @@
     "cur_price": 0.9995,
     "value": 18.86,
     "pnl": 8.86
-   },
-   {
-    "title": "Will the highest temperature in Milan be 33\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 17.7,
-    "avg_price": 0.565,
-    "cur_price": 0.9995,
-    "value": 17.69,
-    "pnl": 7.69
    },
    {
     "title": "Will the highest temperature in Mexico City be 25\u00b0C on July 3?",
@@ -146,6 +128,24 @@
     "shares": 17.39,
     "avg_price": 0.575,
     "cur_price": 0.575,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Munich be 24\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 19.05,
+    "avg_price": 0.525,
+    "cur_price": 0.525,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Munich be 25\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 14.6,
+    "avg_price": 0.685,
+    "cur_price": 0.685,
     "value": 10.0,
     "pnl": 0.0
    },
@@ -245,6 +245,15 @@
     "shares": 19.42,
     "avg_price": 0.515,
     "cur_price": 0.515,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Milan be 33\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 17.7,
+    "avg_price": 0.565,
+    "cur_price": 0.565,
     "value": 10.0,
     "pnl": 0.0
    },
@@ -505,9 +514,9 @@
     "outcome": "No",
     "shares": 24.1,
     "avg_price": 0.415,
-    "cur_price": 0.008,
-    "value": 0.19,
-    "pnl": -9.81
+    "cur_price": 0.011,
+    "value": 0.27,
+    "pnl": -9.73
    },
    {
     "title": "Will the highest temperature in Hong Kong be 29\u00b0C on July 3?",
@@ -541,15 +550,6 @@
     "outcome": "No",
     "shares": 15.75,
     "avg_price": 0.635,
-    "cur_price": 0.0005,
-    "value": 0.01,
-    "pnl": -9.99
-   },
-   {
-    "title": "Will the highest temperature in Munich be 25\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 14.6,
-    "avg_price": 0.685,
     "cur_price": 0.0005,
     "value": 0.01,
     "pnl": -9.99
