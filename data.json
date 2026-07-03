@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T21:53:59.457136+00:00",
+ "generated_at": "2026-07-03T22:04:10.194938+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -18,10 +18,10 @@
  "strategy_history": [],
  "portfolio": {
   "cash": 400.0,
-  "positions_value": 629.42,
-  "total": 1029.42,
+  "positions_value": 629.4,
+  "total": 1029.4,
   "starting": 1000.0,
-  "pnl": 29.42,
+  "pnl": 29.4,
   "positions": [
    {
     "title": "Will the highest temperature in Toronto be 35\u00b0C on July 3?",
@@ -64,18 +64,18 @@
     "outcome": "No",
     "shares": 17.7,
     "avg_price": 0.565,
-    "cur_price": 0.9985,
-    "value": 17.67,
-    "pnl": 7.67
+    "cur_price": 0.9995,
+    "value": 17.69,
+    "pnl": 7.69
    },
    {
     "title": "Will the highest temperature in Mexico City be 25\u00b0C on July 3?",
     "outcome": "No",
     "shares": 16.39,
     "avg_price": 0.61,
-    "cur_price": 0.9845,
-    "value": 16.14,
-    "pnl": 6.14
+    "cur_price": 0.992,
+    "value": 16.26,
+    "pnl": 6.26
    },
    {
     "title": "Will the highest temperature in Paris be 29\u00b0C on July 3?",
@@ -469,9 +469,9 @@
     "outcome": "No",
     "shares": 24.1,
     "avg_price": 0.415,
-    "cur_price": 0.0195,
-    "value": 0.47,
-    "pnl": -9.53
+    "cur_price": 0.0135,
+    "value": 0.33,
+    "pnl": -9.67
    },
    {
     "title": "Will the highest temperature in Hong Kong be 29\u00b0C on July 3?",
@@ -510,15 +510,6 @@
     "pnl": -9.98
    },
    {
-    "title": "Will the highest temperature in Madrid be 37\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 22.99,
-    "avg_price": 0.435,
-    "cur_price": 0.001,
-    "value": 0.02,
-    "pnl": -9.98
-   },
-   {
     "title": "Will the highest temperature in London be 27\u00b0C on July 3?",
     "outcome": "No",
     "shares": 15.75,
@@ -550,6 +541,15 @@
     "outcome": "No",
     "shares": 18.35,
     "avg_price": 0.545,
+    "cur_price": 0.0005,
+    "value": 0.01,
+    "pnl": -9.99
+   },
+   {
+    "title": "Will the highest temperature in Madrid be 37\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 22.99,
+    "avg_price": 0.435,
     "cur_price": 0.0005,
     "value": 0.01,
     "pnl": -9.99
