@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T22:04:10.194938+00:00",
+ "generated_at": "2026-07-03T22:14:21.101914+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -18,19 +18,19 @@
  "strategy_history": [],
  "portfolio": {
   "cash": 400.0,
-  "positions_value": 629.4,
-  "total": 1029.4,
+  "positions_value": 629.47,
+  "total": 1029.47,
   "starting": 1000.0,
-  "pnl": 29.4,
+  "pnl": 29.47,
   "positions": [
    {
     "title": "Will the highest temperature in Toronto be 35\u00b0C on July 3?",
     "outcome": "Yes",
     "shares": 83.33,
     "avg_price": 0.12,
-    "cur_price": 0.992,
-    "value": 82.67,
-    "pnl": 72.67
+    "cur_price": 0.9925,
+    "value": 82.71,
+    "pnl": 72.71
    },
    {
     "title": "Will the highest temperature in Toronto be 34\u00b0C on July 3?",
@@ -469,9 +469,9 @@
     "outcome": "No",
     "shares": 24.1,
     "avg_price": 0.415,
-    "cur_price": 0.0135,
-    "value": 0.33,
-    "pnl": -9.67
+    "cur_price": 0.0145,
+    "value": 0.35,
+    "pnl": -9.65
    },
    {
     "title": "Will the highest temperature in Hong Kong be 29\u00b0C on July 3?",
