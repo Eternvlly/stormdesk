@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T21:03:04.431725+00:00",
+ "generated_at": "2026-07-03T21:13:15.038096+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -18,19 +18,19 @@
  "strategy_history": [],
  "portfolio": {
   "cash": 400.0,
-  "positions_value": 635.48,
-  "total": 1035.48,
+  "positions_value": 632.68,
+  "total": 1032.68,
   "starting": 1000.0,
-  "pnl": 35.48,
+  "pnl": 32.68,
   "positions": [
    {
     "title": "Will the highest temperature in Toronto be 35\u00b0C on July 3?",
     "outcome": "Yes",
     "shares": 83.33,
     "avg_price": 0.12,
-    "cur_price": 0.9945,
-    "value": 82.88,
-    "pnl": 72.88
+    "cur_price": 0.995,
+    "value": 82.92,
+    "pnl": 72.92
    },
    {
     "title": "Will the highest temperature in Istanbul be 28\u00b0C on July 3?",
@@ -96,6 +96,15 @@
     "pnl": 6.25
    },
    {
+    "title": "Will the highest temperature in Mexico City be 25\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 16.39,
+    "avg_price": 0.61,
+    "cur_price": 0.9835,
+    "value": 16.12,
+    "pnl": 6.12
+   },
+   {
     "title": "Will the highest temperature in Paris be 29\u00b0C on July 3?",
     "outcome": "No",
     "shares": 15.5,
@@ -112,15 +121,6 @@
     "cur_price": 0.9995,
     "value": 15.26,
     "pnl": 5.26
-   },
-   {
-    "title": "Will the highest temperature in Mexico City be 25\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 16.39,
-    "avg_price": 0.61,
-    "cur_price": 0.93,
-    "value": 15.25,
-    "pnl": 5.25
    },
    {
     "title": "Will the highest temperature in Hong Kong be 30\u00b0C on July 3?",
@@ -438,22 +438,13 @@
     "pnl": 0.0
    },
    {
-    "title": "Will the highest temperature in Buenos Aires be 10\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 181.82,
-    "avg_price": 0.055,
-    "cur_price": 0.0165,
-    "value": 3.0,
-    "pnl": -7.0
-   },
-   {
     "title": "Will the highest temperature in Mexico City be 24\u00b0C on July 3?",
     "outcome": "No",
     "shares": 24.1,
     "avg_price": 0.415,
-    "cur_price": 0.06,
-    "value": 1.45,
-    "pnl": -8.55
+    "cur_price": 0.029,
+    "value": 0.7,
+    "pnl": -9.3
    },
    {
     "title": "Will the highest temperature in Hong Kong be 29\u00b0C on July 3?",
@@ -463,6 +454,15 @@
     "cur_price": 0.001,
     "value": 0.17,
     "pnl": -9.83
+   },
+   {
+    "title": "Will the highest temperature in Buenos Aires be 10\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 181.82,
+    "avg_price": 0.055,
+    "cur_price": 0.0005,
+    "value": 0.09,
+    "pnl": -9.91
    },
    {
     "title": "Will the highest temperature in Warsaw be 22\u00b0C on July 3?",
@@ -478,27 +478,9 @@
     "outcome": "No",
     "shares": 20.2,
     "avg_price": 0.495,
-    "cur_price": 0.0025,
-    "value": 0.05,
-    "pnl": -9.95
-   },
-   {
-    "title": "Will the highest temperature in Moscow be 27\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 15.87,
-    "avg_price": 0.63,
-    "cur_price": 0.0025,
+    "cur_price": 0.002,
     "value": 0.04,
     "pnl": -9.96
-   },
-   {
-    "title": "Will the highest temperature in Milan be 32\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 18.35,
-    "avg_price": 0.545,
-    "cur_price": 0.0015,
-    "value": 0.03,
-    "pnl": -9.97
    },
    {
     "title": "Will the highest temperature in Madrid be 37\u00b0C on July 3?",
@@ -546,6 +528,15 @@
     "pnl": -9.99
    },
    {
+    "title": "Will the highest temperature in Milan be 32\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 18.35,
+    "avg_price": 0.545,
+    "cur_price": 0.0005,
+    "value": 0.01,
+    "pnl": -9.99
+   },
+   {
     "title": "Will the highest temperature in Warsaw be 23\u00b0C on July 3?",
     "outcome": "No",
     "shares": 21.51,
@@ -559,6 +550,15 @@
     "outcome": "No",
     "shares": 14.71,
     "avg_price": 0.68,
+    "cur_price": 0.0005,
+    "value": 0.01,
+    "pnl": -9.99
+   },
+   {
+    "title": "Will the highest temperature in Moscow be 27\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 15.87,
+    "avg_price": 0.63,
     "cur_price": 0.0005,
     "value": 0.01,
     "pnl": -9.99
