@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T21:23:25.640467+00:00",
+ "generated_at": "2026-07-03T21:33:36.801988+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -18,10 +18,10 @@
  "strategy_history": [],
  "portfolio": {
   "cash": 400.0,
-  "positions_value": 632.28,
-  "total": 1032.28,
+  "positions_value": 635.94,
+  "total": 1035.94,
   "starting": 1000.0,
-  "pnl": 32.28,
+  "pnl": 35.94,
   "positions": [
    {
     "title": "Will the highest temperature in Toronto be 35\u00b0C on July 3?",
@@ -82,27 +82,18 @@
     "outcome": "No",
     "shares": 17.7,
     "avg_price": 0.565,
-    "cur_price": 0.998,
-    "value": 17.66,
-    "pnl": 7.66
-   },
-   {
-    "title": "Will the highest temperature in Moscow be 26\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 16.26,
-    "avg_price": 0.615,
-    "cur_price": 0.9995,
-    "value": 16.25,
-    "pnl": 6.25
+    "cur_price": 0.9985,
+    "value": 17.67,
+    "pnl": 7.67
    },
    {
     "title": "Will the highest temperature in Mexico City be 25\u00b0C on July 3?",
     "outcome": "No",
     "shares": 16.39,
     "avg_price": 0.61,
-    "cur_price": 0.986,
-    "value": 16.16,
-    "pnl": 6.16
+    "cur_price": 0.9805,
+    "value": 16.07,
+    "pnl": 6.07
    },
    {
     "title": "Will the highest temperature in Paris be 29\u00b0C on July 3?",
@@ -420,11 +411,29 @@
     "pnl": 0.0
    },
    {
+    "title": "Will the highest temperature in Moscow be 26\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 16.26,
+    "avg_price": 0.615,
+    "cur_price": 0.615,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
     "title": "Will the highest temperature in Taipei be 37\u00b0C on July 3?",
     "outcome": "No",
     "shares": 12.11,
     "avg_price": 0.8255,
     "cur_price": 0.8255,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Moscow be 27\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 15.87,
+    "avg_price": 0.63,
+    "cur_price": 0.63,
     "value": 10.0,
     "pnl": 0.0
    },
@@ -550,15 +559,6 @@
     "outcome": "No",
     "shares": 14.71,
     "avg_price": 0.68,
-    "cur_price": 0.0005,
-    "value": 0.01,
-    "pnl": -9.99
-   },
-   {
-    "title": "Will the highest temperature in Moscow be 27\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 15.87,
-    "avg_price": 0.63,
     "cur_price": 0.0005,
     "value": 0.01,
     "pnl": -9.99
