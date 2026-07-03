@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T20:32:30.586018+00:00",
+ "generated_at": "2026-07-03T20:42:41.979903+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -18,19 +18,19 @@
  "strategy_history": [],
  "portfolio": {
   "cash": 400.0,
-  "positions_value": 637.74,
-  "total": 1037.74,
+  "positions_value": 641.05,
+  "total": 1041.05,
   "starting": 1000.0,
-  "pnl": 37.74,
+  "pnl": 41.05,
   "positions": [
    {
     "title": "Will the highest temperature in Toronto be 35\u00b0C on July 3?",
     "outcome": "Yes",
     "shares": 83.33,
     "avg_price": 0.12,
-    "cur_price": 0.9905,
-    "value": 82.54,
-    "pnl": 72.54
+    "cur_price": 0.9935,
+    "value": 82.79,
+    "pnl": 72.79
    },
    {
     "title": "Will the highest temperature in Istanbul be 28\u00b0C on July 3?",
@@ -136,9 +136,9 @@
     "outcome": "No",
     "shares": 16.39,
     "avg_price": 0.61,
-    "cur_price": 0.795,
-    "value": 13.03,
-    "pnl": 3.03
+    "cur_price": 0.805,
+    "value": 13.2,
+    "pnl": 3.2
    },
    {
     "title": "Will the highest temperature in Toronto be 34\u00b0C on July 2?",
@@ -442,9 +442,9 @@
     "outcome": "No",
     "shares": 24.1,
     "avg_price": 0.415,
-    "cur_price": 0.24,
-    "value": 5.78,
-    "pnl": -4.22
+    "cur_price": 0.36,
+    "value": 8.67,
+    "pnl": -1.33
    },
    {
     "title": "Will the highest temperature in Buenos Aires be 10\u00b0C on July 3?",
