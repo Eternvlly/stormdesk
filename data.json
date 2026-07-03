@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T23:46:01.615632+00:00",
+ "generated_at": "2026-07-03T23:56:12.696721+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -18,10 +18,10 @@
  "strategy_history": [],
  "portfolio": {
   "cash": 400.0,
-  "positions_value": 648.36,
-  "total": 1048.36,
+  "positions_value": 658.35,
+  "total": 1058.35,
   "starting": 1000.0,
-  "pnl": 48.36,
+  "pnl": 58.35,
   "positions": [
    {
     "title": "Will the highest temperature in Toronto be 35\u00b0C on July 3?",
@@ -83,6 +83,15 @@
     "shares": 18.87,
     "avg_price": 0.53,
     "cur_price": 0.53,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in London be 27\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 15.75,
+    "avg_price": 0.635,
+    "cur_price": 0.635,
     "value": 10.0,
     "pnl": 0.0
    },
@@ -544,15 +553,6 @@
     "cur_price": 0.001,
     "value": 0.02,
     "pnl": -9.98
-   },
-   {
-    "title": "Will the highest temperature in London be 27\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 15.75,
-    "avg_price": 0.635,
-    "cur_price": 0.0005,
-    "value": 0.01,
-    "pnl": -9.99
    },
    {
     "title": "Will the highest temperature in Mexico City be 24\u00b0C on July 3?",
