@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T18:53:20.998659+00:00",
+ "generated_at": "2026-07-03T19:00:50.444838+00:00",
  "mode": "paper",
  "strategy": {
   "version": 1,
@@ -18,11 +18,20 @@
  "strategy_history": [],
  "portfolio": {
   "cash": 400.0,
-  "positions_value": 562.89,
-  "total": 962.89,
+  "positions_value": 606.33,
+  "total": 1006.33,
   "starting": 1000.0,
-  "pnl": -37.11,
+  "pnl": 6.33,
   "positions": [
+   {
+    "title": "Will the highest temperature in Buenos Aires be 10\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 181.82,
+    "avg_price": 0.055,
+    "cur_price": 0.315,
+    "value": 57.27,
+    "pnl": 47.27
+   },
    {
     "title": "Will the highest temperature in Istanbul be 28\u00b0C on July 3?",
     "outcome": "No",
@@ -55,18 +64,18 @@
     "outcome": "No",
     "shares": 18.87,
     "avg_price": 0.53,
-    "cur_price": 0.999,
-    "value": 18.85,
-    "pnl": 8.85
+    "cur_price": 0.9995,
+    "value": 18.86,
+    "pnl": 8.86
    },
    {
     "title": "Will the highest temperature in Milan be 33\u00b0C on July 3?",
     "outcome": "No",
     "shares": 17.7,
     "avg_price": 0.565,
-    "cur_price": 0.9975,
-    "value": 17.65,
-    "pnl": 7.65
+    "cur_price": 0.998,
+    "value": 17.66,
+    "pnl": 7.66
    },
    {
     "title": "Will the highest temperature in Moscow be 26\u00b0C on July 3?",
@@ -82,9 +91,9 @@
     "outcome": "No",
     "shares": 15.5,
     "avg_price": 0.645,
-    "cur_price": 0.997,
-    "value": 15.46,
-    "pnl": 5.46
+    "cur_price": 0.9975,
+    "value": 15.47,
+    "pnl": 5.47
    },
    {
     "title": "Will the highest temperature in Warsaw be 24\u00b0C on July 3?",
@@ -118,27 +127,9 @@
     "outcome": "No",
     "shares": 23.26,
     "avg_price": 0.43,
-    "cur_price": 0.51,
-    "value": 11.86,
-    "pnl": 1.86
-   },
-   {
-    "title": "Will the highest temperature in Mexico City be 24\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 24.1,
-    "avg_price": 0.415,
-    "cur_price": 0.445,
-    "value": 10.72,
-    "pnl": 0.72
-   },
-   {
-    "title": "Will the highest temperature in Toronto be 35\u00b0C on July 3?",
-    "outcome": "Yes",
-    "shares": 83.33,
-    "avg_price": 0.12,
-    "cur_price": 0.1205,
-    "value": 10.04,
-    "pnl": 0.04
+    "cur_price": 0.55,
+    "value": 12.79,
+    "pnl": 2.79
    },
    {
     "title": "Will the highest temperature in Toronto be 34\u00b0C on July 2?",
@@ -438,31 +429,31 @@
     "pnl": 0.0
    },
    {
-    "title": "Will the highest temperature in Buenos Aires be 10\u00b0C on July 3?",
+    "title": "Will the highest temperature in Mexico City be 24\u00b0C on July 3?",
     "outcome": "No",
-    "shares": 181.82,
-    "avg_price": 0.055,
-    "cur_price": 0.055,
-    "value": 10.0,
-    "pnl": 0.0
+    "shares": 24.1,
+    "avg_price": 0.415,
+    "cur_price": 0.395,
+    "value": 9.52,
+    "pnl": -0.48
    },
    {
     "title": "Will the highest temperature in Mexico City be 25\u00b0C on July 3?",
     "outcome": "No",
     "shares": 16.39,
     "avg_price": 0.61,
-    "cur_price": 0.61,
-    "value": 10.0,
-    "pnl": 0.0
+    "cur_price": 0.58,
+    "value": 9.51,
+    "pnl": -0.49
    },
    {
-    "title": "Will the highest temperature in London be 27\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 15.75,
-    "avg_price": 0.635,
-    "cur_price": 0.0375,
-    "value": 0.59,
-    "pnl": -9.41
+    "title": "Will the highest temperature in Toronto be 35\u00b0C on July 3?",
+    "outcome": "Yes",
+    "shares": 83.33,
+    "avg_price": 0.12,
+    "cur_price": 0.09,
+    "value": 7.5,
+    "pnl": -2.5
    },
    {
     "title": "Will the highest temperature in Hong Kong be 29\u00b0C on July 3?",
@@ -474,22 +465,22 @@
     "pnl": -9.83
    },
    {
+    "title": "Will the highest temperature in London be 27\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 15.75,
+    "avg_price": 0.635,
+    "cur_price": 0.0055,
+    "value": 0.09,
+    "pnl": -9.91
+   },
+   {
     "title": "Will the highest temperature in Paris be 28\u00b0C on July 3?",
     "outcome": "No",
     "shares": 20.2,
     "avg_price": 0.495,
-    "cur_price": 0.0055,
-    "value": 0.11,
-    "pnl": -9.89
-   },
-   {
-    "title": "Will the highest temperature in Madrid be 37\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 22.99,
-    "avg_price": 0.435,
-    "cur_price": 0.0025,
-    "value": 0.06,
-    "pnl": -9.94
+    "cur_price": 0.0045,
+    "value": 0.09,
+    "pnl": -9.91
    },
    {
     "title": "Will the highest temperature in Warsaw be 22\u00b0C on July 3?",
@@ -501,13 +492,22 @@
     "pnl": -9.94
    },
    {
+    "title": "Will the highest temperature in Madrid be 37\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 22.99,
+    "avg_price": 0.435,
+    "cur_price": 0.002,
+    "value": 0.05,
+    "pnl": -9.95
+   },
+   {
     "title": "Will the highest temperature in Milan be 32\u00b0C on July 3?",
     "outcome": "No",
     "shares": 18.35,
     "avg_price": 0.545,
-    "cur_price": 0.0025,
-    "value": 0.05,
-    "pnl": -9.95
+    "cur_price": 0.002,
+    "value": 0.04,
+    "pnl": -9.96
    },
    {
     "title": "Will the highest temperature in Hong Kong be 31\u00b0C on July 3?",
@@ -519,15 +519,6 @@
     "pnl": -9.97
    },
    {
-    "title": "Will the highest temperature in Munich be 25\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 14.6,
-    "avg_price": 0.685,
-    "cur_price": 0.0015,
-    "value": 0.02,
-    "pnl": -9.98
-   },
-   {
     "title": "Will the highest temperature in Tel Aviv be 31\u00b0C on July 3?",
     "outcome": "No",
     "shares": 35.09,
@@ -535,6 +526,15 @@
     "cur_price": 0.0005,
     "value": 0.02,
     "pnl": -9.98
+   },
+   {
+    "title": "Will the highest temperature in Munich be 25\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 14.6,
+    "avg_price": 0.685,
+    "cur_price": 0.001,
+    "value": 0.01,
+    "pnl": -9.99
    },
    {
     "title": "Will the highest temperature in Warsaw be 23\u00b0C on July 3?",
@@ -567,11 +567,11 @@
  },
  "stats": {
   "news": {
-   "settled": 0,
-   "open": 60,
-   "wins": 0,
-   "win_rate": null,
-   "pnl": 0
+   "settled": 33,
+   "open": 27,
+   "wins": 16,
+   "win_rate": 0.485,
+   "pnl": -71.88
   },
   "copy": {
    "settled": 0,
@@ -1329,8 +1329,9 @@
      34.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783105203
   },
   {
    "ts": 1783024139,
@@ -1357,8 +1358,9 @@
      22.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783105203
   },
   {
    "ts": 1783024140,
@@ -1469,8 +1471,9 @@
      27.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 7.7,
+   "settled_ts": 1783105204
   },
   {
    "ts": 1783024486,
@@ -1525,8 +1528,9 @@
      13.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783105204
   },
   {
    "ts": 1783024486,
@@ -1553,8 +1557,9 @@
      14.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 7.09,
+   "settled_ts": 1783105204
   },
   {
    "ts": 1783024487,
@@ -1665,8 +1670,9 @@
      25.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 5.38,
+   "settled_ts": 1783105205
   },
   {
    "ts": 1783026315,
@@ -1693,8 +1699,9 @@
      26.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783105205
   },
   {
    "ts": 1783026316,
@@ -1749,8 +1756,9 @@
      35.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783105206
   },
   {
    "ts": 1783028182,
@@ -1777,8 +1785,9 @@
      23.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 3.01,
+   "settled_ts": 1783105206
   },
   {
    "ts": 1783028183,
@@ -1833,8 +1842,9 @@
      30.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 4.39,
+   "settled_ts": 1783105206
   },
   {
    "ts": 1783028185,
@@ -1861,8 +1871,9 @@
      31.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 7.09,
+   "settled_ts": 1783105206
   },
   {
    "ts": 1783030035,
@@ -1917,8 +1928,9 @@
      30.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783105207
   },
   {
    "ts": 1783030038,
@@ -1945,8 +1957,9 @@
      31.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783105207
   },
   {
    "ts": 1783030038,
@@ -1973,8 +1986,9 @@
      32.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 9.42,
+   "settled_ts": 1783105207
   },
   {
    "ts": 1783030038,
@@ -2169,8 +2183,9 @@
      35.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 10.0,
+   "settled_ts": 1783105208
   },
   {
    "ts": 1783033760,
@@ -2197,8 +2212,9 @@
      29.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783105209
   },
   {
    "ts": 1783033761,
@@ -2225,8 +2241,9 @@
      36.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 3.33,
+   "settled_ts": 1783105209
   },
   {
    "ts": 1783033761,
@@ -2253,8 +2270,9 @@
      37.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 5.04,
+   "settled_ts": 1783105209
   },
   {
    "ts": 1783033761,
@@ -2281,8 +2299,9 @@
      39.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783105209
   },
   {
    "ts": 1783035622,
@@ -2309,8 +2328,9 @@
      12.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783105209
   },
   {
    "ts": 1783035624,
@@ -2337,8 +2357,9 @@
      36.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783105210
   },
   {
    "ts": 1783035626,
@@ -2365,8 +2386,9 @@
      26.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783105210
   },
   {
    "ts": 1783035627,
@@ -2393,8 +2415,9 @@
      29.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783105210
   },
   {
    "ts": 1783035627,
@@ -2421,8 +2444,9 @@
      31.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783105210
   },
   {
    "ts": 1783036549,
@@ -2449,8 +2473,9 @@
      34.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783105211
   },
   {
    "ts": 1783036550,
@@ -2477,8 +2502,9 @@
      27.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 6.0,
+   "settled_ts": 1783105211
   },
   {
    "ts": 1783036550,
@@ -2505,8 +2531,9 @@
      32.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 4.39,
+   "settled_ts": 1783105211
   },
   {
    "ts": 1783036551,
@@ -2533,8 +2560,9 @@
      31.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 7.54,
+   "settled_ts": 1783105211
   },
   {
    "ts": 1783036551,
@@ -2561,8 +2589,9 @@
      32.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783105211
   },
   {
    "ts": 1783037478,
@@ -2589,8 +2618,9 @@
      28.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783105212
   },
   {
    "ts": 1783037478,
@@ -2673,8 +2703,9 @@
      33.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 3.16,
+   "settled_ts": 1783105212
   },
   {
    "ts": 1783037482,
@@ -2757,8 +2788,9 @@
      37.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 2.11,
+   "settled_ts": 1783105213
   },
   {
    "ts": 1783039357,
@@ -2841,8 +2873,9 @@
      27.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 12.47,
+   "settled_ts": 1783105213
   },
   {
    "ts": 1783104765,
