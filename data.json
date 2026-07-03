@@ -1,36 +1,36 @@
 {
- "generated_at": "2026-07-03T19:00:50.444838+00:00",
+ "generated_at": "2026-07-03T19:11:01.351963+00:00",
  "mode": "paper",
  "strategy": {
-  "version": 1,
+  "version": 2,
   "created": "2026-07-02",
-  "notes": "initial version",
+  "notes": "v2: sigma_scale 1.0 -> 0.55. Model claimed 78% avg on NO bets, realized 48.5% over 33 (4-sigma miscalibration); market-implied next-day sigma ~0.8C vs our 1.8C. Threshold unchanged.",
   "news": {
    "edge_threshold": 0.12,
    "fixed_trade_usd": 10.0,
    "min_price": 0.05,
    "max_price": 0.9,
    "max_lead_days": 3,
-   "sigma_scale": 1.0,
+   "sigma_scale": 0.55,
    "max_new_positions_per_scan": 5
   }
  },
  "strategy_history": [],
  "portfolio": {
   "cash": 400.0,
-  "positions_value": 606.33,
-  "total": 1006.33,
+  "positions_value": 640.25,
+  "total": 1040.25,
   "starting": 1000.0,
-  "pnl": 6.33,
+  "pnl": 40.25,
   "positions": [
    {
-    "title": "Will the highest temperature in Buenos Aires be 10\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 181.82,
-    "avg_price": 0.055,
-    "cur_price": 0.315,
-    "value": 57.27,
-    "pnl": 47.27
+    "title": "Will the highest temperature in Toronto be 35\u00b0C on July 3?",
+    "outcome": "Yes",
+    "shares": 83.33,
+    "avg_price": 0.12,
+    "cur_price": 0.9695,
+    "value": 80.79,
+    "pnl": 70.79
    },
    {
     "title": "Will the highest temperature in Istanbul be 28\u00b0C on July 3?",
@@ -42,13 +42,22 @@
     "pnl": 14.99
    },
    {
+    "title": "Will the highest temperature in Toronto be 34\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 23.26,
+    "avg_price": 0.43,
+    "cur_price": 0.9995,
+    "value": 23.24,
+    "pnl": 13.24
+   },
+   {
     "title": "Will the highest temperature in Ankara be 32\u00b0C on July 3?",
     "outcome": "No",
     "shares": 21.51,
     "avg_price": 0.465,
-    "cur_price": 0.999,
-    "value": 21.48,
-    "pnl": 11.48
+    "cur_price": 0.9995,
+    "value": 21.49,
+    "pnl": 11.49
    },
    {
     "title": "Will the highest temperature in Munich be 24\u00b0C on July 3?",
@@ -100,9 +109,9 @@
     "outcome": "No",
     "shares": 15.27,
     "avg_price": 0.655,
-    "cur_price": 0.999,
-    "value": 15.25,
-    "pnl": 5.25
+    "cur_price": 0.9995,
+    "value": 15.26,
+    "pnl": 5.26
    },
    {
     "title": "Will the highest temperature in Hong Kong be 30\u00b0C on July 3?",
@@ -123,13 +132,13 @@
     "pnl": 5.03
    },
    {
-    "title": "Will the highest temperature in Toronto be 34\u00b0C on July 3?",
+    "title": "Will the highest temperature in Mexico City be 24\u00b0C on July 3?",
     "outcome": "No",
-    "shares": 23.26,
-    "avg_price": 0.43,
-    "cur_price": 0.55,
-    "value": 12.79,
-    "pnl": 2.79
+    "shares": 24.1,
+    "avg_price": 0.415,
+    "cur_price": 0.495,
+    "value": 11.93,
+    "pnl": 1.93
    },
    {
     "title": "Will the highest temperature in Toronto be 34\u00b0C on July 2?",
@@ -429,31 +438,22 @@
     "pnl": 0.0
    },
    {
-    "title": "Will the highest temperature in Mexico City be 24\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 24.1,
-    "avg_price": 0.415,
-    "cur_price": 0.395,
-    "value": 9.52,
-    "pnl": -0.48
-   },
-   {
     "title": "Will the highest temperature in Mexico City be 25\u00b0C on July 3?",
     "outcome": "No",
     "shares": 16.39,
     "avg_price": 0.61,
-    "cur_price": 0.58,
-    "value": 9.51,
-    "pnl": -0.49
+    "cur_price": 0.595,
+    "value": 9.75,
+    "pnl": -0.25
    },
    {
-    "title": "Will the highest temperature in Toronto be 35\u00b0C on July 3?",
-    "outcome": "Yes",
-    "shares": 83.33,
-    "avg_price": 0.12,
-    "cur_price": 0.09,
-    "value": 7.5,
-    "pnl": -2.5
+    "title": "Will the highest temperature in Buenos Aires be 10\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 181.82,
+    "avg_price": 0.055,
+    "cur_price": 0.0265,
+    "value": 4.82,
+    "pnl": -5.18
    },
    {
     "title": "Will the highest temperature in Hong Kong be 29\u00b0C on July 3?",
@@ -478,9 +478,9 @@
     "outcome": "No",
     "shares": 20.2,
     "avg_price": 0.495,
-    "cur_price": 0.0045,
-    "value": 0.09,
-    "pnl": -9.91
+    "cur_price": 0.003,
+    "value": 0.06,
+    "pnl": -9.94
    },
    {
     "title": "Will the highest temperature in Warsaw be 22\u00b0C on July 3?",
@@ -492,24 +492,6 @@
     "pnl": -9.94
    },
    {
-    "title": "Will the highest temperature in Madrid be 37\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 22.99,
-    "avg_price": 0.435,
-    "cur_price": 0.002,
-    "value": 0.05,
-    "pnl": -9.95
-   },
-   {
-    "title": "Will the highest temperature in Milan be 32\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 18.35,
-    "avg_price": 0.545,
-    "cur_price": 0.002,
-    "value": 0.04,
-    "pnl": -9.96
-   },
-   {
     "title": "Will the highest temperature in Hong Kong be 31\u00b0C on July 3?",
     "outcome": "No",
     "shares": 22.73,
@@ -519,6 +501,33 @@
     "pnl": -9.97
    },
    {
+    "title": "Will the highest temperature in Milan be 32\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 18.35,
+    "avg_price": 0.545,
+    "cur_price": 0.0015,
+    "value": 0.03,
+    "pnl": -9.97
+   },
+   {
+    "title": "Will the highest temperature in Madrid be 37\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 22.99,
+    "avg_price": 0.435,
+    "cur_price": 0.0015,
+    "value": 0.03,
+    "pnl": -9.97
+   },
+   {
+    "title": "Will the highest temperature in Munich be 25\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 14.6,
+    "avg_price": 0.685,
+    "cur_price": 0.0015,
+    "value": 0.02,
+    "pnl": -9.98
+   },
+   {
     "title": "Will the highest temperature in Tel Aviv be 31\u00b0C on July 3?",
     "outcome": "No",
     "shares": 35.09,
@@ -526,15 +535,6 @@
     "cur_price": 0.0005,
     "value": 0.02,
     "pnl": -9.98
-   },
-   {
-    "title": "Will the highest temperature in Munich be 25\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 14.6,
-    "avg_price": 0.685,
-    "cur_price": 0.001,
-    "value": 0.01,
-    "pnl": -9.99
    },
    {
     "title": "Will the highest temperature in Warsaw be 23\u00b0C on July 3?",
