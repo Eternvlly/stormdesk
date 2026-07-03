@@ -167,7 +167,7 @@ const cls=v=>v>0?"up":v<0?"down":"";
 async function load(){
   let d;
   try{
-    const r=await fetch("data.json?t="+Date.now());
+    const r=await fetch("https://raw.githubusercontent.com/Eternvlly/stormdesk/main/data.json?t="+Date.now());
     d=await r.json();
   }catch(e){ $("stale").style.display="block"; return; }
   render(d);
