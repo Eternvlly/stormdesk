@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T23:25:38.796591+00:00",
+ "generated_at": "2026-07-03T23:35:50.233513+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -18,10 +18,10 @@
  "strategy_history": [],
  "portfolio": {
   "cash": 400.0,
-  "positions_value": 657.1,
-  "total": 1057.1,
+  "positions_value": 657.09,
+  "total": 1057.09,
   "starting": 1000.0,
-  "pnl": 57.1,
+  "pnl": 57.09,
   "positions": [
    {
     "title": "Will the highest temperature in Toronto be 35\u00b0C on July 3?",
@@ -55,9 +55,9 @@
     "outcome": "No",
     "shares": 16.39,
     "avg_price": 0.61,
-    "cur_price": 0.9965,
-    "value": 16.34,
-    "pnl": 6.34
+    "cur_price": 0.9995,
+    "value": 16.39,
+    "pnl": 6.39
    },
    {
     "title": "Will the highest temperature in Hong Kong be 30\u00b0C on July 3?",
@@ -537,15 +537,6 @@
     "pnl": -9.91
    },
    {
-    "title": "Will the highest temperature in Mexico City be 24\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 24.1,
-    "avg_price": 0.415,
-    "cur_price": 0.003,
-    "value": 0.07,
-    "pnl": -9.93
-   },
-   {
     "title": "Will the highest temperature in Hong Kong be 31\u00b0C on July 3?",
     "outcome": "No",
     "shares": 22.73,
@@ -559,6 +550,15 @@
     "outcome": "No",
     "shares": 15.75,
     "avg_price": 0.635,
+    "cur_price": 0.0005,
+    "value": 0.01,
+    "pnl": -9.99
+   },
+   {
+    "title": "Will the highest temperature in Mexico City be 24\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 24.1,
+    "avg_price": 0.415,
     "cur_price": 0.0005,
     "value": 0.01,
     "pnl": -9.99
