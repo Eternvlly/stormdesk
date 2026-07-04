@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-04T03:19:53.233643+00:00",
+ "generated_at": "2026-07-04T03:30:03.820413+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -18,10 +18,10 @@
  "strategy_history": [],
  "portfolio": {
   "cash": 400.0,
-  "positions_value": 658.35,
-  "total": 1058.35,
+  "positions_value": 668.26,
+  "total": 1068.26,
   "starting": 1000.0,
-  "pnl": 58.35,
+  "pnl": 68.26,
   "positions": [
    {
     "title": "Will the highest temperature in Toronto be 35\u00b0C on July 3?",
@@ -528,6 +528,15 @@
     "pnl": 0.0
    },
    {
+    "title": "Will the highest temperature in Buenos Aires be 10\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 181.82,
+    "avg_price": 0.055,
+    "cur_price": 0.055,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
     "title": "Will the highest temperature in Hong Kong be 29\u00b0C on July 3?",
     "outcome": "Yes",
     "shares": 166.67,
@@ -535,15 +544,6 @@
     "cur_price": 0.001,
     "value": 0.17,
     "pnl": -9.83
-   },
-   {
-    "title": "Will the highest temperature in Buenos Aires be 10\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 181.82,
-    "avg_price": 0.055,
-    "cur_price": 0.0005,
-    "value": 0.09,
-    "pnl": -9.91
    },
    {
     "title": "Will the highest temperature in Hong Kong be 31\u00b0C on July 3?",
