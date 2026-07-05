@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-05T20:50:39.956613+00:00",
+ "generated_at": "2026-07-05T21:00:57.000292+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -18,10 +18,10 @@
  "strategy_history": [],
  "portfolio": {
   "cash": 0.0,
-  "positions_value": 1077.51,
-  "total": 1077.51,
+  "positions_value": 1077.5,
+  "total": 1077.5,
   "starting": 1000.0,
-  "pnl": 77.51,
+  "pnl": 77.5,
   "positions": [
    {
     "title": "Will the highest temperature in Munich be 26\u00b0C on July 5?",
@@ -897,15 +897,6 @@
     "pnl": -9.94
    },
    {
-    "title": "Will the highest temperature in Hong Kong be 31\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 22.73,
-    "avg_price": 0.44,
-    "cur_price": 0.002,
-    "value": 0.05,
-    "pnl": -9.95
-   },
-   {
     "title": "Will the highest temperature in Ankara be 24\u00b0C on July 5?",
     "outcome": "Yes",
     "shares": 100.0,
@@ -913,6 +904,15 @@
     "cur_price": 0.0005,
     "value": 0.05,
     "pnl": -9.95
+   },
+   {
+    "title": "Will the highest temperature in Hong Kong be 31\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 22.73,
+    "avg_price": 0.44,
+    "cur_price": 0.0015,
+    "value": 0.03,
+    "pnl": -9.97
    },
    {
     "title": "Will the highest temperature in Tel Aviv be 31\u00b0C on July 5?",
