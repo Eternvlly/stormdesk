@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-05T21:42:02.991827+00:00",
+ "generated_at": "2026-07-05T21:52:19.990814+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -18,10 +18,10 @@
  "strategy_history": [],
  "portfolio": {
   "cash": 0.0,
-  "positions_value": 1077.48,
-  "total": 1077.48,
+  "positions_value": 1080.2,
+  "total": 1080.2,
   "starting": 1000.0,
-  "pnl": 77.48,
+  "pnl": 80.2,
   "positions": [
    {
     "title": "Will the highest temperature in Munich be 26\u00b0C on July 5?",
@@ -76,15 +76,6 @@
     "cur_price": 0.9995,
     "value": 17.69,
     "pnl": 7.69
-   },
-   {
-    "title": "Will the highest temperature in Ankara be 26\u00b0C on July 5?",
-    "outcome": "No",
-    "shares": 17.24,
-    "avg_price": 0.58,
-    "cur_price": 0.9995,
-    "value": 17.23,
-    "pnl": 7.23
    },
    {
     "title": "Will the highest temperature in Hong Kong be 32\u00b0C on July 5?",
@@ -717,6 +708,24 @@
     "pnl": 0.0
    },
    {
+    "title": "Will the highest temperature in Ankara be 24\u00b0C on July 5?",
+    "outcome": "Yes",
+    "shares": 100.0,
+    "avg_price": 0.1,
+    "cur_price": 0.1,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Ankara be 26\u00b0C on July 5?",
+    "outcome": "No",
+    "shares": 17.24,
+    "avg_price": 0.58,
+    "cur_price": 0.58,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
     "title": "Will the highest temperature in Wellington be 13\u00b0C on July 5?",
     "outcome": "Yes",
     "shares": 68.26,
@@ -895,15 +904,6 @@
     "cur_price": 0.0005,
     "value": 0.06,
     "pnl": -9.94
-   },
-   {
-    "title": "Will the highest temperature in Ankara be 24\u00b0C on July 5?",
-    "outcome": "Yes",
-    "shares": 100.0,
-    "avg_price": 0.1,
-    "cur_price": 0.0005,
-    "value": 0.05,
-    "pnl": -9.95
    },
    {
     "title": "Will the highest temperature in Hong Kong be 31\u00b0C on July 3?",
