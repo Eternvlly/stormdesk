@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-05T20:29:58.436994+00:00",
+ "generated_at": "2026-07-05T20:40:22.462177+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -18,19 +18,19 @@
  "strategy_history": [],
  "portfolio": {
   "cash": 0.0,
-  "positions_value": 1077.47,
-  "total": 1077.47,
+  "positions_value": 1077.51,
+  "total": 1077.51,
   "starting": 1000.0,
-  "pnl": 77.47,
+  "pnl": 77.51,
   "positions": [
    {
     "title": "Will the highest temperature in Munich be 26\u00b0C on July 5?",
     "outcome": "Yes",
     "shares": 78.74,
     "avg_price": 0.127,
-    "cur_price": 0.999,
-    "value": 78.66,
-    "pnl": 68.66
+    "cur_price": 0.9995,
+    "value": 78.7,
+    "pnl": 68.7
    },
    {
     "title": "Will the highest temperature in Munich be 25\u00b0C on July 5?",
@@ -64,9 +64,9 @@
     "outcome": "No",
     "shares": 18.52,
     "avg_price": 0.54,
-    "cur_price": 0.999,
-    "value": 18.5,
-    "pnl": 8.5
+    "cur_price": 0.9995,
+    "value": 18.51,
+    "pnl": 8.51
    },
    {
     "title": "Will the highest temperature in Hong Kong be 31\u00b0C on July 5?",
@@ -888,15 +888,6 @@
     "pnl": -9.93
    },
    {
-    "title": "Will the highest temperature in Hong Kong be 31\u00b0C on July 3?",
-    "outcome": "No",
-    "shares": 22.73,
-    "avg_price": 0.44,
-    "cur_price": 0.0025,
-    "value": 0.06,
-    "pnl": -9.94
-   },
-   {
     "title": "Will the highest temperature in Hong Kong be 30\u00b0C on July 5?",
     "outcome": "Yes",
     "shares": 126.58,
@@ -904,6 +895,15 @@
     "cur_price": 0.0005,
     "value": 0.06,
     "pnl": -9.94
+   },
+   {
+    "title": "Will the highest temperature in Hong Kong be 31\u00b0C on July 3?",
+    "outcome": "No",
+    "shares": 22.73,
+    "avg_price": 0.44,
+    "cur_price": 0.002,
+    "value": 0.05,
+    "pnl": -9.95
    },
    {
     "title": "Will the highest temperature in Ankara be 24\u00b0C on July 5?",
@@ -5004,29 +5004,29 @@
  ],
  "headlines": [
   {
-   "ts": 1783205154,
+   "ts": 1783283434,
    "kind": "headlines",
    "items": [
     "Google News",
-    "Monitoring a few showers and storms over the holiday weekend | Latest Weather Forecast - Channel 3000",
-    "Severe thunderstorm watch in effect on July Fourth - WBAL-TV",
-    "DC Forecast | Sunshine returns in time for the weekend - WUSA9",
-    "Modesto escaped severe weather for Fourth. Here\u2019s what\u2019s in store the coming week - Modesto Bee",
-    "El Ni\u00f1o is forecast to intensify, increasing likelihood of extreme weather - World Meteorological Organization WMO",
-    "El Ni\u00f1o forecast to intensify, increasing likelihood of extreme weather - UN News",
+    "More Severe Weather Looms as Over 800,000 Remain Without Power - The New York Times",
+    "Merced County escaped severe weather for Fourth. What\u2019s in store the coming week? - Merced Sun-Star",
     "Atmospheric Code Red: 2026 Super El Ni\u00f1o Now Trending Toward Record-Breaking Intensity - Severe Weather Europe",
-    "4th of July Weekend Forecast: Heat and storm chances - Hot days and a few storms ahead - News 9",
-    "These weather events have shaped US history over the last 250 years - ABC News - Breaking News, Latest News and Videos",
+    "El Ni\u00f1o is forecast to intensify, increasing likelihood of extreme weather - World Meteorological Organization WMO",
+    "Beautiful Sunday weather ahead | Latest Weather Forecast - Channel 3000",
+    "El Ni\u00f1o forecast to intensify, increasing likelihood of extreme weather - UN News",
+    "Storms say mostly south Sunday - News On 6",
+    "Milions brace for flooding after heat and severe storms damper July 4th celebrations - CBS News",
+    "Why the US may be unprepared for a deadly storm season - BBC Science Focus Magazine",
+    "Not as hot &amp; quieter today for OKC - Hot times ahead with scattered storms down the road - News 9",
+    "19 dead in New Jersey from record-breaking July 4 holiday weekend heat, governor says - ABC News - Breaking News, Latest News and Videos",
     "Fourth of July weekend brings more dangerous heat across the Mid-South - FOX13 Memphis",
     "List of active weather alerts as severe weather moves through Southeast Michigan - ClickOnDetroit | WDIV Local 4",
-    "Chloe Arroyo\u2019s 4th of July forecast - News On 6",
-    "UN warns likelihood of \u2018extreme weather events\u2019 as El Nino set to intensify - Al Jazeera",
-    "Tracking a few more storm chances into the holiday | Latest Weather Forecast - Channel 3000",
+    "Chance of a few showers, warm temps for Sunday across Long Island - News12 | Long Island",
+    "Monitoring a few showers and storms over the holiday weekend | Latest Weather Forecast - Channel 3000",
     "Weather Alert: Temps jump over 100\u00b0 as severe storms threaten July 4 events - NBC4 Washington",
-    "Thursday expected to be hottest day of week as Severe Weather Days remain - FOX13 Memphis",
-    "ALERT DAY: Strong storm chances continue into the overnight - Channel 3000",
-    "Severe storms leave widespread damage, power outages across SE Michigan, more storms possible for Fourth of July - ClickOnDetroit | WDIV Local 4",
-    "Severe Thunderstorm Watch until 10 p.m. - WTVR.com"
+    "Severe thunderstorms cause damage across New York, New Jersey amid July 4th festivities - CBS News",
+    "UN warns likelihood of \u2018extreme weather events\u2019 as El Nino set to intensify - Al Jazeera",
+    "At least 22 suffer heat-related deaths during extreme heat wave that slammed the eastern US - FOX Weather"
    ]
   }
  ]
