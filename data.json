@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-06T03:37:22.374574+00:00",
+ "generated_at": "2026-07-06T03:47:40.105843+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -927,11 +927,11 @@
  },
  "stats": {
   "news": {
-   "settled": 81,
-   "open": 19,
-   "wins": 40,
-   "win_rate": 0.494,
-   "pnl": -84.96
+   "settled": 100,
+   "open": 0,
+   "wins": 52,
+   "win_rate": 0.52,
+   "pnl": -4.57
   },
   "copy": {
    "settled": 0,
@@ -2575,8 +2575,9 @@
      29.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783309141
   },
   {
    "ts": 1783028180,
@@ -2661,8 +2662,9 @@
      31.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783309141
   },
   {
    "ts": 1783028184,
@@ -2892,8 +2894,9 @@
      30.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 5.15,
+   "settled_ts": 1783309141
   },
   {
    "ts": 1783031928,
@@ -4051,8 +4054,9 @@
      27.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783309141
   },
   {
    "ts": 1783195726,
@@ -4079,8 +4083,9 @@
      29.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 8.52,
+   "settled_ts": 1783309142
   },
   {
    "ts": 1783195726,
@@ -4194,8 +4199,9 @@
      24.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783309142
   },
   {
    "ts": 1783197619,
@@ -4222,8 +4228,9 @@
      26.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 7.24,
+   "settled_ts": 1783309142
   },
   {
    "ts": 1783197619,
@@ -4511,8 +4518,9 @@
      23.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 2.42,
+   "settled_ts": 1783309142
   },
   {
    "ts": 1783201386,
@@ -4539,8 +4547,9 @@
      24.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 4.6,
+   "settled_ts": 1783309142
   },
   {
    "ts": 1783201386,
@@ -4567,8 +4576,9 @@
      26.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 74.75,
+   "settled_ts": 1783309143
   },
   {
    "ts": 1783201386,
@@ -4595,8 +4605,9 @@
      30.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783309143
   },
   {
    "ts": 1783203252,
@@ -4623,8 +4634,9 @@
      31.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783309143
   },
   {
    "ts": 1783203252,
@@ -4738,8 +4750,9 @@
      30.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "lost",
+   "pnl": -10.0,
+   "settled_ts": 1783309143
   },
   {
    "ts": 1783205152,
@@ -4766,8 +4779,9 @@
      25.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 11.28,
+   "settled_ts": 1783309143
   },
   {
    "ts": 1783205152,
@@ -4794,8 +4808,9 @@
      31.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 8.18,
+   "settled_ts": 1783309144
   },
   {
    "ts": 1783205153,
@@ -4822,8 +4837,9 @@
      32.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 6.29,
+   "settled_ts": 1783309144
   },
   {
    "ts": 1783205153,
@@ -4879,8 +4895,9 @@
      34.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 8.69,
+   "settled_ts": 1783309144
   },
   {
    "ts": 1783207022,
@@ -4994,8 +5011,9 @@
      39.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 10.41,
+   "settled_ts": 1783309144
   },
   {
    "ts": 1783207024,
@@ -5022,35 +5040,36 @@
      19.5
     ]
    },
-   "status": "open",
-   "pnl": null
+   "status": "won",
+   "pnl": 2.86,
+   "settled_ts": 1783309144
   }
  ],
  "headlines": [
   {
-   "ts": 1783287205,
+   "ts": 1783309255,
    "kind": "headlines",
    "items": [
     "Google News",
-    "More Severe Weather Looms as Over 800,000 Remain Without Power - The New York Times",
-    "Merced County escaped severe weather for Fourth. What\u2019s in store the coming week? - Merced Sun-Star",
+    "Beautiful weather continues! | Latest Weather Forecast - Channel 3000",
+    "Storms move through Maryland Sunday night with 60 mph wind gusts - WBAL-TV",
     "El Ni\u00f1o is forecast to intensify, increasing likelihood of extreme weather - World Meteorological Organization WMO",
+    "Merced County escaped severe weather for Fourth. What\u2019s in store the coming week? - Merced Sun-Star",
     "El Ni\u00f1o forecast to intensify, increasing likelihood of extreme weather - UN News",
-    "Beautiful Sunday weather ahead | Latest Weather Forecast - Channel 3000",
-    "Storms say mostly south Sunday - News On 6",
-    "Why the US may be unprepared for a deadly storm season - BBC Science Focus Magazine",
-    "Not as hot &amp; quieter today for OKC - Hot times ahead with scattered storms down the road - News 9",
+    "More Severe Weather Looms as Over 800,000 Remain Without Power - The New York Times",
+    "DC area under heat, air quality and severe weather alerts as storms approach - WTOP",
+    "Atmospheric Code Red: 2026 Super El Ni\u00f1o Now Trending Toward Record-Breaking Intensity - Severe Weather Europe",
+    "Extreme weather mars 4th of July weekend; seaplane makes hard landing in NYC river - CBS News",
     "Fourth of July weekend brings more dangerous heat across the Mid-South - FOX13 Memphis",
+    "Storms say mostly south Sunday - News On 6",
     "List of active weather alerts as severe weather moves through Southeast Michigan - ClickOnDetroit | WDIV Local 4",
-    "19 dead in New Jersey from record-breaking July 4 holiday weekend heat, governor says - ABC News - Breaking News, Latest News and Videos",
-    "Safety First: Chatham 4th of July Committee Cancels Sunday's Rain Date for Fireworks Display Due to Extreme Weather Forecast - TAPinto",
-    "UN warns likelihood of \u2018extreme weather events\u2019 as El Nino set to intensify - Al Jazeera",
-    "Chance of a few showers, warm temps for Sunday across Long Island - News12 | Long Island",
-    "The Pacific Ocean is running a fever. Why that\u2019s an ominous sign. - The Washington Post",
+    "Not as hot &amp; quieter today for OKC - Hot times ahead with scattered storms down the road - News 9",
+    "Chesterfield opens library for the weekend amid extreme weather - WRIC ABC 8News",
+    "Why the US may be unprepared for a deadly storm season - BBC Science Focus Magazine",
+    "Beautiful Sunday weather ahead | Latest Weather Forecast - Channel 3000",
     "Weather Alert: Temps jump over 100\u00b0 as severe storms threaten July 4 events - NBC4 Washington",
-    "At least 22 suffer heat-related deaths during extreme heat wave that slammed the eastern US - FOX Weather",
-    "Extreme heat wave in its final stretch and could fuel storms during July 4 celebrations - CNN",
-    "National Mall to reopen after weather evacuation at July 4 celebrations - WUSA9"
+    "Monitoring a few showers and storms over the holiday weekend | Latest Weather Forecast - Channel 3000",
+    "25 suspected heat deaths in New Jersey from record-breaking July 4 weekend temperatures - ABC News - Breaking News, Latest News and Videos"
    ]
   }
  ]
