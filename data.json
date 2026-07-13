@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-12T18:44:29.162044+00:00",
+ "generated_at": "2026-07-13T19:03:14.608742+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -17,17 +17,63 @@
  },
  "strategy_history": [],
  "portfolio": {
-  "cash": 995.57,
-  "positions_value": 0.0,
+  "cash": 945.57,
+  "positions_value": 50.0,
   "total": 995.57,
   "starting": 1000.0,
   "pnl": -4.43,
-  "positions": []
+  "positions": [
+   {
+    "title": "Will the highest temperature in Sao Paulo be 22\u00b0C on July 12?",
+    "outcome": "No",
+    "shares": 105.26,
+    "avg_price": 0.095,
+    "cur_price": 0.095,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Buenos Aires be 12\u00b0C on July 12?",
+    "outcome": "No",
+    "shares": 64.52,
+    "avg_price": 0.155,
+    "cur_price": 0.155,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Buenos Aires be 13\u00b0C on July 12?",
+    "outcome": "No",
+    "shares": 11.76,
+    "avg_price": 0.85,
+    "cur_price": 0.85,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Toronto be 26\u00b0C on July 12?",
+    "outcome": "Yes",
+    "shares": 58.65,
+    "avg_price": 0.1705,
+    "cur_price": 0.1705,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Toronto be 27\u00b0C on July 12?",
+    "outcome": "No",
+    "shares": 24.69,
+    "avg_price": 0.405,
+    "cur_price": 0.405,
+    "value": 10.0,
+    "pnl": 0.0
+   }
+  ]
  },
  "stats": {
   "news": {
    "settled": 100,
-   "open": 0,
+   "open": 5,
    "wins": 52,
    "win_rate": 0.52,
    "pnl": -4.57
@@ -41,66 +87,6 @@
   }
  },
  "fills": [
-  {
-   "ts": 1783794043,
-   "side": "SELL",
-   "token": "51938302659953565787207387062687250110306212483265096605522990774601675920014",
-   "title": "Will the highest temperature in Toronto be 34\u00b0C on July 2?",
-   "outcome": "No",
-   "price": 0.0,
-   "shares": 33.3333,
-   "usd": 0.0,
-   "copied_from": "resolution",
-   "trader_tx": "redeem"
-  },
-  {
-   "ts": 1783794043,
-   "side": "SELL",
-   "token": "95137209383017108278309451300166192464191272918777585765534554289331059774043",
-   "title": "Will the highest temperature in Mexico City be 22\u00b0C on July 2?",
-   "outcome": "No",
-   "price": 0.0,
-   "shares": 80.0,
-   "usd": 0.0,
-   "copied_from": "resolution",
-   "trader_tx": "redeem"
-  },
-  {
-   "ts": 1783794043,
-   "side": "SELL",
-   "token": "894037897986258464264447580000384268830146630249328676673164913653151174399",
-   "title": "Will the highest temperature in London be 26\u00b0C on July 3?",
-   "outcome": "No",
-   "price": 1.0,
-   "shares": 18.8679,
-   "usd": 18.87,
-   "copied_from": "resolution",
-   "trader_tx": "redeem"
-  },
-  {
-   "ts": 1783794043,
-   "side": "SELL",
-   "token": "30455717752519410733392593164180993092261063381220901531590492032595424768757",
-   "title": "Will the highest temperature in London be 27\u00b0C on July 3?",
-   "outcome": "No",
-   "price": 0.0,
-   "shares": 15.748,
-   "usd": 0.0,
-   "copied_from": "resolution",
-   "trader_tx": "redeem"
-  },
-  {
-   "ts": 1783794043,
-   "side": "SELL",
-   "token": "5122853564555550507389797097097393059213706379187277392068996917475787234799",
-   "title": "Will the highest temperature in Paris be 28\u00b0C on July 3?",
-   "outcome": "No",
-   "price": 0.0,
-   "shares": 20.202,
-   "usd": 0.0,
-   "copied_from": "resolution",
-   "trader_tx": "redeem"
-  },
   {
    "ts": 1783794043,
    "side": "SELL",
@@ -1240,154 +1226,69 @@
    "usd": 12.86,
    "copied_from": "resolution",
    "trader_tx": "redeem"
+  },
+  {
+   "ts": 1783881897,
+   "side": "BUY",
+   "token": "111590779271350089781395276513592637708591820082058170992042952030666626205193",
+   "title": "Will the highest temperature in Sao Paulo be 22\u00b0C on July 12?",
+   "outcome": "No",
+   "price": 0.095,
+   "shares": 105.2632,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-0026e7979363"
+  },
+  {
+   "ts": 1783881898,
+   "side": "BUY",
+   "token": "102869436544042954926227222312721879043824641664068847628406431714091493239001",
+   "title": "Will the highest temperature in Buenos Aires be 12\u00b0C on July 12?",
+   "outcome": "No",
+   "price": 0.155,
+   "shares": 64.5161,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-12665bd62804"
+  },
+  {
+   "ts": 1783881898,
+   "side": "BUY",
+   "token": "93050141538362636330738483193424895783998927569692216287755517472263773060536",
+   "title": "Will the highest temperature in Buenos Aires be 13\u00b0C on July 12?",
+   "outcome": "No",
+   "price": 0.85,
+   "shares": 11.7647,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-14418b530fd7"
+  },
+  {
+   "ts": 1783881898,
+   "side": "BUY",
+   "token": "95703059098559793340523828079961769529383378917340533523429294401588249905179",
+   "title": "Will the highest temperature in Toronto be 26\u00b0C on July 12?",
+   "outcome": "Yes",
+   "price": 0.1705,
+   "shares": 58.651,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-8f11e26573c2"
+  },
+  {
+   "ts": 1783881898,
+   "side": "BUY",
+   "token": "100989812362614477930333678784964592911046341126518080181006050632788187128924",
+   "title": "Will the highest temperature in Toronto be 27\u00b0C on July 12?",
+   "outcome": "No",
+   "price": 0.405,
+   "shares": 24.6914,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-5528b0580f70"
   }
  ],
  "journal": [
-  {
-   "ts": 1783024135,
-   "date": "2026-07-02",
-   "signal": "news",
-   "strategy_version": 1,
-   "token": "51938302659953565787207387062687250110306212483265096605522990774601675920014",
-   "market_slug": "highest-temperature-in-toronto-on-july-2-2026-34c",
-   "question": "Will the highest temperature in Toronto be 34\u00b0C on July 2?",
-   "side": "NO",
-   "entry_price": 0.245,
-   "usd": 10.0,
-   "reasoning": {
-    "forecast_tmax": 34.6,
-    "sigma": 1.2,
-    "model_p": 0.7129,
-    "market_p": 0.245,
-    "edge": 0.4679,
-    "lead_days": 0,
-    "city": "Toronto",
-    "unit": "C",
-    "bucket": [
-     33.5,
-     34.5
-    ]
-   },
-   "status": "lost",
-   "pnl": -10.0,
-   "settled_ts": 1783105203
-  },
-  {
-   "ts": 1783024139,
-   "date": "2026-07-02",
-   "signal": "news",
-   "strategy_version": 1,
-   "token": "95137209383017108278309451300166192464191272918777585765534554289331059774043",
-   "market_slug": "highest-temperature-in-mexico-city-on-july-2-2026-22c",
-   "question": "Will the highest temperature in Mexico City be 22\u00b0C on July 2?",
-   "side": "NO",
-   "entry_price": 0.21,
-   "usd": 10.0,
-   "reasoning": {
-    "forecast_tmax": 21.0,
-    "sigma": 1.2,
-    "model_p": 0.7672,
-    "market_p": 0.21,
-    "edge": 0.5572,
-    "lead_days": 0,
-    "city": "Mexico City",
-    "unit": "C",
-    "bucket": [
-     21.5,
-     22.5
-    ]
-   },
-   "status": "lost",
-   "pnl": -10.0,
-   "settled_ts": 1783105203
-  },
-  {
-   "ts": 1783024140,
-   "date": "2026-07-02",
-   "signal": "news",
-   "strategy_version": 1,
-   "token": "894037897986258464264447580000384268830146630249328676673164913653151174399",
-   "market_slug": "highest-temperature-in-london-on-july-3-2026-26c",
-   "question": "Will the highest temperature in London be 26\u00b0C on July 3?",
-   "side": "NO",
-   "entry_price": 0.525,
-   "usd": 10.0,
-   "reasoning": {
-    "forecast_tmax": 25.8,
-    "sigma": 1.8,
-    "model_p": 0.7825,
-    "market_p": 0.525,
-    "edge": 0.2575,
-    "lead_days": 1,
-    "city": "London",
-    "unit": "C",
-    "bucket": [
-     25.5,
-     26.5
-    ]
-   },
-   "status": "won",
-   "pnl": 9.05,
-   "settled_ts": 1783197514
-  },
-  {
-   "ts": 1783024140,
-   "date": "2026-07-02",
-   "signal": "news",
-   "strategy_version": 1,
-   "token": "30455717752519410733392593164180993092261063381220901531590492032595424768757",
-   "market_slug": "highest-temperature-in-london-on-july-3-2026-27c",
-   "question": "Will the highest temperature in London be 27\u00b0C on July 3?",
-   "side": "NO",
-   "entry_price": 0.63,
-   "usd": 10.0,
-   "reasoning": {
-    "forecast_tmax": 25.8,
-    "sigma": 1.8,
-    "model_p": 0.8238,
-    "market_p": 0.63,
-    "edge": 0.1938,
-    "lead_days": 1,
-    "city": "London",
-    "unit": "C",
-    "bucket": [
-     26.5,
-     27.5
-    ]
-   },
-   "status": "lost",
-   "pnl": -10.0,
-   "settled_ts": 1783197514
-  },
-  {
-   "ts": 1783024140,
-   "date": "2026-07-02",
-   "signal": "news",
-   "strategy_version": 1,
-   "token": "5122853564555550507389797097097393059213706379187277392068996917475787234799",
-   "market_slug": "highest-temperature-in-paris-on-july-3-2026-28c",
-   "question": "Will the highest temperature in Paris be 28\u00b0C on July 3?",
-   "side": "NO",
-   "entry_price": 0.495,
-   "usd": 10.0,
-   "reasoning": {
-    "forecast_tmax": 28.9,
-    "sigma": 1.8,
-    "model_p": 0.8063,
-    "market_p": 0.495,
-    "edge": 0.3113,
-    "lead_days": 1,
-    "city": "Paris",
-    "unit": "C",
-    "bucket": [
-     27.5,
-     28.5
-    ]
-   },
-   "status": "lost",
-   "pnl": -10.0,
-   "settled_ts": 1783197514
-  },
   {
    "ts": 1783024485,
    "date": "2026-07-02",
@@ -4142,33 +4043,173 @@
    "status": "won",
    "pnl": 2.86,
    "settled_ts": 1783309144
+  },
+  {
+   "ts": 1783881897,
+   "date": "2026-07-12",
+   "signal": "news",
+   "strategy_version": 2,
+   "token": "111590779271350089781395276513592637708591820082058170992042952030666626205193",
+   "market_slug": "highest-temperature-in-sao-paulo-on-july-12-2026-22c",
+   "question": "Will the highest temperature in Sao Paulo be 22\u00b0C on July 12?",
+   "side": "NO",
+   "entry_price": 0.1085,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 22.1,
+    "sigma": 0.66,
+    "model_p": 0.4539,
+    "market_p": 0.1085,
+    "edge": 0.3454,
+    "lead_days": 0,
+    "city": "Sao Paulo",
+    "unit": "C",
+    "bucket": [
+     21.5,
+     22.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
+  },
+  {
+   "ts": 1783881898,
+   "date": "2026-07-12",
+   "signal": "news",
+   "strategy_version": 2,
+   "token": "102869436544042954926227222312721879043824641664068847628406431714091493239001",
+   "market_slug": "highest-temperature-in-buenos-aires-on-july-12-2026-12c",
+   "question": "Will the highest temperature in Buenos Aires be 12\u00b0C on July 12?",
+   "side": "NO",
+   "entry_price": 0.165,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 10.7,
+    "sigma": 0.66,
+    "model_p": 0.8905,
+    "market_p": 0.165,
+    "edge": 0.7255,
+    "lead_days": 0,
+    "city": "Buenos Aires",
+    "unit": "C",
+    "bucket": [
+     11.5,
+     12.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
+  },
+  {
+   "ts": 1783881898,
+   "date": "2026-07-12",
+   "signal": "news",
+   "strategy_version": 2,
+   "token": "93050141538362636330738483193424895783998927569692216287755517472263773060536",
+   "market_slug": "highest-temperature-in-buenos-aires-on-july-12-2026-13c",
+   "question": "Will the highest temperature in Buenos Aires be 13\u00b0C on July 12?",
+   "side": "NO",
+   "entry_price": 0.83,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 10.7,
+    "sigma": 0.66,
+    "model_p": 0.9968,
+    "market_p": 0.83,
+    "edge": 0.1668,
+    "lead_days": 0,
+    "city": "Buenos Aires",
+    "unit": "C",
+    "bucket": [
+     12.5,
+     13.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
+  },
+  {
+   "ts": 1783881898,
+   "date": "2026-07-12",
+   "signal": "news",
+   "strategy_version": 2,
+   "token": "95703059098559793340523828079961769529383378917340533523429294401588249905179",
+   "market_slug": "highest-temperature-in-toronto-on-july-12-2026-26c",
+   "question": "Will the highest temperature in Toronto be 26\u00b0C on July 12?",
+   "side": "YES",
+   "entry_price": 0.1605,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 26.7,
+    "sigma": 0.66,
+    "model_p": 0.3464,
+    "market_p": 0.1605,
+    "edge": 0.1859,
+    "lead_days": 0,
+    "city": "Toronto",
+    "unit": "C",
+    "bucket": [
+     25.5,
+     26.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
+  },
+  {
+   "ts": 1783881898,
+   "date": "2026-07-12",
+   "signal": "news",
+   "strategy_version": 2,
+   "token": "100989812362614477930333678784964592911046341126518080181006050632788187128924",
+   "market_slug": "highest-temperature-in-toronto-on-july-12-2026-27c",
+   "question": "Will the highest temperature in Toronto be 27\u00b0C on July 12?",
+   "side": "NO",
+   "entry_price": 0.355,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 26.7,
+    "sigma": 0.66,
+    "model_p": 0.4937,
+    "market_p": 0.355,
+    "edge": 0.1387,
+    "lead_days": 0,
+    "city": "Toronto",
+    "unit": "C",
+    "bucket": [
+     26.5,
+     27.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
   }
  ],
  "headlines": [
   {
-   "ts": 1783629569,
+   "ts": 1783881900,
    "kind": "headlines",
    "items": [
     "Google News",
+    "Historic El Ni\u00f1o able to supercharge extreme weather looks increasingly likely \u2013 researchers - The Guardian",
     "A ballooning problem: Weather warnings face rising risks from budget cuts - Politico",
-    "El Ni\u00f1o is forecast to intensify, increasing likelihood of extreme weather - World Meteorological Organization WMO",
-    "UN tells world to brace for extreme weather as El Nino looms - Al Jazeera",
-    "How Trump\u2019s Cuts to FEMA and NWS Are Leaving Communities Defenseless Against Extreme Weather Disasters - Center for American Progress",
-    "She Used A.I. to Improve Forecasts for Extreme Weather - The New York Times",
-    "El Ni\u00f1o confirmed, set to fuel more extreme weather, says WMO - UN News",
-    "El Ni\u00f1o Could Soon Fuel Extreme Weather, UN Warns - ScienceAlert",
-    "Plains and the Midwest bracing for more severe weather, possible tornadoes - ABC News - Breaking News, Latest News and Videos",
-    "El Ni\u00f1o forms in Pacific as experts say it will likely turbocharge extreme weather - The Guardian",
     "El Ni\u00f1o forecast to intensify, increasing likelihood of extreme weather - UN News",
-    "ENSO Diagnostic Discussion - Climate Prediction Center (.gov)",
-    "ALERT DAY conditions ending | Latest Weather Forecast - Channel 3000",
-    "Ask UConn Extension: How to Prepare for Extreme Weather During El Ni\u00f1o and Beyond - UConn Today",
-    "Severe thunderstorm watch in effect for much of Maryland - WBAL-TV",
-    "Severe weather returns as storms bring possible flash flooding - NBC10 Philadelphia",
-    "Flash flood warnings in NYC, New Jersey as severe weather system brings heavy rain - CBS News",
-    "First Alert Weather Day for Afternoon- Overnight Storms - First Alert 4",
-    "Excessive heat and humidity underway - News On 6",
-    "PSE&amp;G: Extreme Weather Doesn't Take Holidays, Our Storm Response Didn't Either - PR Newswire"
+    "UN tells world to brace for extreme weather as El Nino looms - Al Jazeera",
+    "She Used A.I. to Improve Forecasts for Extreme Weather - The New York Times",
+    "El Ni\u00f1o Could Soon Fuel Extreme Weather, UN Warns - ScienceAlert",
+    "El Ni\u00f1o is forecast to intensify, increasing likelihood of extreme weather - World Meteorological Organization WMO",
+    "El Ni\u00f1o confirmed, set to fuel more extreme weather, says WMO - UN News",
+    "Summer-like heat arrives Sunday, ALERT DAYs Monday through Wednesday | Latest Weather Forecast - Channel 3000",
+    "France Extreme Weather Heat - Dayton Daily News",
+    "Severe storms reload, take aim at New England as shifting heat dome moves in over region - FOX Weather",
+    "Experimental Graphical Hazardous Weather Outlook - National Weather Service (.gov)",
+    "MN weather: Extreme heat warning in the Twin Cities - FOX 9 Minneapolis-St. Paul",
+    "El Ni\u00f1o locks in, with impacts to hurricane season and South Florida weather likely - NBC 6 South Florida",
+    "England vs Norway World Cup quarterfinal threatened by severe weather delays - Yahoo Sports",
+    "How to prepare for extreme heat in Minnesota - MPR News",
+    "'Not a run-of-the-mill El Nino.' Forecasters predict historic strength - PBS",
+    "Severe weather disrupts downtown business, events in Paducah - WPSD Local 6",
+    "The future looks hot for Billings, all-time record could fall on Sunday - Billings Gazette"
    ]
   }
  ]
