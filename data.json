@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T20:53:17.181924+00:00",
+ "generated_at": "2026-07-15T21:03:22.710901+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -18,11 +18,20 @@
  "strategy_history": [],
  "portfolio": {
   "cash": 795.57,
-  "positions_value": 178.99,
-  "total": 974.56,
+  "positions_value": 181.96,
+  "total": 977.53,
   "starting": 1000.0,
-  "pnl": -25.44,
+  "pnl": -22.47,
   "positions": [
+   {
+    "title": "Will the highest temperature in Mexico City be 26\u00b0C on July 15?",
+    "outcome": "No",
+    "shares": 14.39,
+    "avg_price": 0.695,
+    "cur_price": 0.875,
+    "value": 12.59,
+    "pnl": 2.59
+   },
    {
     "title": "Will the highest temperature in Sao Paulo be 22\u00b0C on July 12?",
     "outcome": "No",
@@ -177,22 +186,13 @@
     "pnl": -0.3
    },
    {
-    "title": "Will the highest temperature in Mexico City be 26\u00b0C on July 15?",
-    "outcome": "No",
-    "shares": 14.39,
-    "avg_price": 0.695,
-    "cur_price": 0.665,
-    "value": 9.57,
-    "pnl": -0.43
-   },
-   {
     "title": "Will the highest temperature in Mexico City be 24\u00b0C on July 15?",
     "outcome": "Yes",
     "shares": 50.0,
     "avg_price": 0.2,
-    "cur_price": 0.0015,
-    "value": 0.07,
-    "pnl": -9.93
+    "cur_price": 0.0005,
+    "value": 0.03,
+    "pnl": -9.97
    },
    {
     "title": "Will the highest temperature in Buenos Aires be 10\u00b0C on July 13?",
