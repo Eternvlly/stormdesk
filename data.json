@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T21:13:28.333268+00:00",
+ "generated_at": "2026-07-15T21:23:34.510969+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -18,37 +18,28 @@
  "strategy_history": [],
  "portfolio": {
   "cash": 745.57,
-  "positions_value": 233.08,
-  "total": 978.65,
+  "positions_value": 226.41,
+  "total": 971.98,
   "starting": 1000.0,
-  "pnl": -21.35,
+  "pnl": -28.02,
   "positions": [
    {
     "title": "Will the highest temperature in Mexico City be 26\u00b0C on July 15?",
     "outcome": "No",
     "shares": 14.39,
     "avg_price": 0.695,
-    "cur_price": 0.885,
-    "value": 12.73,
-    "pnl": 2.73
-   },
-   {
-    "title": "Will the highest temperature in Seoul be 31\u00b0C or higher on July 16?",
-    "outcome": "Yes",
-    "shares": 95.24,
-    "avg_price": 0.105,
-    "cur_price": 0.115,
-    "value": 10.95,
-    "pnl": 0.95
+    "cur_price": 0.935,
+    "value": 13.45,
+    "pnl": 3.45
    },
    {
     "title": "Will the highest temperature in Seoul be 28\u00b0C on July 16?",
     "outcome": "No",
     "shares": 11.83,
     "avg_price": 0.845,
-    "cur_price": 0.85,
-    "value": 10.06,
-    "pnl": 0.06
+    "cur_price": 0.875,
+    "value": 10.36,
+    "pnl": 0.36
    },
    {
     "title": "Will the highest temperature in Sao Paulo be 22\u00b0C on July 12?",
@@ -177,11 +168,11 @@
     "pnl": 0.0
    },
    {
-    "title": "Will the highest temperature in Mexico City be 25\u00b0C on July 15?",
-    "outcome": "No",
-    "shares": 52.63,
-    "avg_price": 0.19,
-    "cur_price": 0.19,
+    "title": "Will the highest temperature in Seoul be 31\u00b0C or higher on July 16?",
+    "outcome": "Yes",
+    "shares": 95.24,
+    "avg_price": 0.105,
+    "cur_price": 0.105,
     "value": 10.0,
     "pnl": 0.0
    },
@@ -195,11 +186,11 @@
     "pnl": 0.0
    },
    {
-    "title": "Will the highest temperature in Wellington be 15\u00b0C on July 16?",
-    "outcome": "Yes",
-    "shares": 47.62,
-    "avg_price": 0.21,
-    "cur_price": 0.21,
+    "title": "Will the highest temperature in Wellington be 16\u00b0C on July 16?",
+    "outcome": "No",
+    "shares": 33.33,
+    "avg_price": 0.3,
+    "cur_price": 0.3,
     "value": 10.0,
     "pnl": 0.0
    },
@@ -217,18 +208,27 @@
     "outcome": "No",
     "shares": 21.05,
     "avg_price": 0.475,
-    "cur_price": 0.465,
-    "value": 9.79,
-    "pnl": -0.21
+    "cur_price": 0.455,
+    "value": 9.58,
+    "pnl": -0.42
    },
    {
-    "title": "Will the highest temperature in Wellington be 16\u00b0C on July 16?",
+    "title": "Will the highest temperature in Wellington be 15\u00b0C on July 16?",
+    "outcome": "Yes",
+    "shares": 47.62,
+    "avg_price": 0.21,
+    "cur_price": 0.16,
+    "value": 7.62,
+    "pnl": -2.38
+   },
+   {
+    "title": "Will the highest temperature in Mexico City be 25\u00b0C on July 15?",
     "outcome": "No",
-    "shares": 33.33,
-    "avg_price": 0.3,
-    "cur_price": 0.29,
-    "value": 9.67,
-    "pnl": -0.33
+    "shares": 52.63,
+    "avg_price": 0.19,
+    "cur_price": 0.105,
+    "value": 5.53,
+    "pnl": -4.47
    },
    {
     "title": "Will the highest temperature in Mexico City be 24\u00b0C on July 15?",
