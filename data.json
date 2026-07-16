@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-16T00:05:12.140210+00:00",
+ "generated_at": "2026-07-16T00:15:20.142182+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -17,12 +17,21 @@
  },
  "strategy_history": [],
  "portfolio": {
-  "cash": 651.96,
-  "positions_value": 331.63,
-  "total": 983.59,
+  "cash": 601.96,
+  "positions_value": 375.48,
+  "total": 977.45,
   "starting": 1000.0,
-  "pnl": -16.41,
+  "pnl": -22.55,
   "positions": [
+   {
+    "title": "Will the highest temperature in Shanghai be 39\u00b0C on July 16?",
+    "outcome": "Yes",
+    "shares": 48.54,
+    "avg_price": 0.206,
+    "cur_price": 0.2975,
+    "value": 14.44,
+    "pnl": 4.44
+   },
    {
     "title": "Will the highest temperature in Mexico City be 26\u00b0C on July 15?",
     "outcome": "No",
@@ -33,85 +42,67 @@
     "pnl": 4.38
    },
    {
-    "title": "Will the highest temperature in Shanghai be 39\u00b0C on July 16?",
-    "outcome": "Yes",
-    "shares": 48.54,
-    "avg_price": 0.206,
-    "cur_price": 0.2855,
-    "value": 13.86,
-    "pnl": 3.86
+    "title": "Will the highest temperature in Wellington be 16\u00b0C on July 16?",
+    "outcome": "No",
+    "shares": 33.33,
+    "avg_price": 0.3,
+    "cur_price": 0.395,
+    "value": 13.17,
+    "pnl": 3.17
    },
    {
     "title": "Will the highest temperature in Seoul be 31\u00b0C or higher on July 16?",
     "outcome": "Yes",
     "shares": 95.24,
     "avg_price": 0.105,
-    "cur_price": 0.135,
-    "value": 12.86,
-    "pnl": 2.86
+    "cur_price": 0.13,
+    "value": 12.38,
+    "pnl": 2.38
    },
    {
     "title": "Will the highest temperature in Wellington be 17\u00b0C on July 16?",
     "outcome": "No",
     "shares": 18.28,
     "avg_price": 0.547,
-    "cur_price": 0.703,
-    "value": 12.85,
-    "pnl": 2.85
-   },
-   {
-    "title": "Will the highest temperature in Ankara be 29\u00b0C on July 16?",
-    "outcome": "Yes",
-    "shares": 90.91,
-    "avg_price": 0.11,
-    "cur_price": 0.125,
-    "value": 11.36,
-    "pnl": 1.36
-   },
-   {
-    "title": "Will the highest temperature in Shanghai be 37\u00b0C on July 16?",
-    "outcome": "No",
-    "shares": 12.9,
-    "avg_price": 0.775,
-    "cur_price": 0.87,
-    "value": 11.23,
-    "pnl": 1.23
-   },
-   {
-    "title": "Will the highest temperature in Madrid be 34\u00b0C on July 16?",
-    "outcome": "Yes",
-    "shares": 117.65,
-    "avg_price": 0.085,
-    "cur_price": 0.095,
-    "value": 11.18,
-    "pnl": 1.18
-   },
-   {
-    "title": "Will the highest temperature in Singapore be 30\u00b0C on July 16?",
-    "outcome": "Yes",
-    "shares": 169.49,
-    "avg_price": 0.059,
-    "cur_price": 0.0655,
-    "value": 11.1,
-    "pnl": 1.1
-   },
-   {
-    "title": "Will the highest temperature in Singapore be 31\u00b0C on July 16?",
-    "outcome": "Yes",
-    "shares": 41.67,
-    "avg_price": 0.24,
-    "cur_price": 0.265,
-    "value": 11.04,
-    "pnl": 1.04
+    "cur_price": 0.626,
+    "value": 11.44,
+    "pnl": 1.44
    },
    {
     "title": "Will the highest temperature in Paris be 33\u00b0C on July 16?",
     "outcome": "No",
     "shares": 21.05,
     "avg_price": 0.475,
-    "cur_price": 0.52,
-    "value": 10.95,
-    "pnl": 0.95
+    "cur_price": 0.535,
+    "value": 11.26,
+    "pnl": 1.26
+   },
+   {
+    "title": "Will the highest temperature in Singapore be 31\u00b0C on July 16?",
+    "outcome": "Yes",
+    "shares": 41.67,
+    "avg_price": 0.24,
+    "cur_price": 0.27,
+    "value": 11.25,
+    "pnl": 1.25
+   },
+   {
+    "title": "Will the highest temperature in Shanghai be 37\u00b0C on July 16?",
+    "outcome": "No",
+    "shares": 12.9,
+    "avg_price": 0.775,
+    "cur_price": 0.85,
+    "value": 10.97,
+    "pnl": 0.97
+   },
+   {
+    "title": "Will the highest temperature in Singapore be 30\u00b0C on July 16?",
+    "outcome": "Yes",
+    "shares": 169.49,
+    "avg_price": 0.059,
+    "cur_price": 0.0645,
+    "value": 10.93,
+    "pnl": 0.93
    },
    {
     "title": "Will the highest temperature in London be 27\u00b0C on July 16?",
@@ -121,15 +112,6 @@
     "cur_price": 0.855,
     "value": 10.69,
     "pnl": 0.69
-   },
-   {
-    "title": "Will the highest temperature in Hong Kong be 30\u00b0C on July 16?",
-    "outcome": "Yes",
-    "shares": 133.33,
-    "avg_price": 0.075,
-    "cur_price": 0.08,
-    "value": 10.67,
-    "pnl": 0.67
    },
    {
     "title": "Will the highest temperature in Munich be 29\u00b0C on July 16?",
@@ -150,6 +132,15 @@
     "pnl": 0.47
    },
    {
+    "title": "Will the highest temperature in Taipei be 35\u00b0C on July 16?",
+    "outcome": "No",
+    "shares": 12.5,
+    "avg_price": 0.8,
+    "cur_price": 0.83,
+    "value": 10.38,
+    "pnl": 0.38
+   },
+   {
     "title": "Will the highest temperature in Singapore be 32\u00b0C on July 16?",
     "outcome": "No",
     "shares": 25.32,
@@ -159,11 +150,47 @@
     "pnl": 0.25
    },
    {
+    "title": "Will the highest temperature in Milan be 32\u00b0C on July 16?",
+    "outcome": "No",
+    "shares": 17.86,
+    "avg_price": 0.56,
+    "cur_price": 0.57,
+    "value": 10.18,
+    "pnl": 0.18
+   },
+   {
+    "title": "Will the highest temperature in Madrid be 36\u00b0C on July 16?",
+    "outcome": "No",
+    "shares": 16.26,
+    "avg_price": 0.615,
+    "cur_price": 0.625,
+    "value": 10.16,
+    "pnl": 0.16
+   },
+   {
+    "title": "Will the highest temperature in Warsaw be 30\u00b0C on July 16?",
+    "outcome": "No",
+    "shares": 15.87,
+    "avg_price": 0.63,
+    "cur_price": 0.635,
+    "value": 10.08,
+    "pnl": 0.08
+   },
+   {
     "title": "Will the highest temperature in Paris be 34\u00b0C on July 16?",
     "outcome": "Yes",
     "shares": 80.0,
     "avg_price": 0.125,
     "cur_price": 0.125,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Ankara be 29\u00b0C on July 16?",
+    "outcome": "Yes",
+    "shares": 90.91,
+    "avg_price": 0.11,
+    "cur_price": 0.11,
     "value": 10.0,
     "pnl": 0.0
    },
@@ -177,15 +204,6 @@
     "pnl": 0.0
    },
    {
-    "title": "Will the highest temperature in Milan be 32\u00b0C on July 16?",
-    "outcome": "No",
-    "shares": 17.86,
-    "avg_price": 0.56,
-    "cur_price": 0.56,
-    "value": 10.0,
-    "pnl": 0.0
-   },
-   {
     "title": "Will the highest temperature in Milan be 34\u00b0C on July 16?",
     "outcome": "Yes",
     "shares": 57.14,
@@ -195,11 +213,20 @@
     "pnl": 0.0
    },
    {
-    "title": "Will the highest temperature in Madrid be 36\u00b0C on July 16?",
+    "title": "Will the highest temperature in Hong Kong be 28\u00b0C on July 16?",
     "outcome": "No",
-    "shares": 16.26,
-    "avg_price": 0.615,
-    "cur_price": 0.615,
+    "shares": 14.74,
+    "avg_price": 0.6785,
+    "cur_price": 0.6785,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Madrid be 34\u00b0C on July 16?",
+    "outcome": "Yes",
+    "shares": 117.65,
+    "avg_price": 0.085,
+    "cur_price": 0.085,
     "value": 10.0,
     "pnl": 0.0
    },
@@ -208,9 +235,36 @@
     "outcome": "No",
     "shares": 11.63,
     "avg_price": 0.86,
-    "cur_price": 0.855,
-    "value": 9.94,
-    "pnl": -0.06
+    "cur_price": 0.86,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Warsaw be 28\u00b0C on July 16?",
+    "outcome": "Yes",
+    "shares": 83.33,
+    "avg_price": 0.12,
+    "cur_price": 0.12,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Warsaw be 29\u00b0C on July 16?",
+    "outcome": "No",
+    "shares": 20.62,
+    "avg_price": 0.485,
+    "cur_price": 0.485,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Taipei be 36\u00b0C on July 16?",
+    "outcome": "No",
+    "shares": 21.98,
+    "avg_price": 0.455,
+    "cur_price": 0.455,
+    "value": 10.0,
+    "pnl": 0.0
    },
    {
     "title": "Will the highest temperature in Seoul be 29\u00b0C on July 16?",
@@ -226,72 +280,54 @@
     "outcome": "No",
     "shares": 24.1,
     "avg_price": 0.415,
-    "cur_price": 0.405,
-    "value": 9.76,
-    "pnl": -0.24
-   },
-   {
-    "title": "Will the highest temperature in Hong Kong be 28\u00b0C on July 16?",
-    "outcome": "No",
-    "shares": 14.74,
-    "avg_price": 0.6785,
-    "cur_price": 0.649,
-    "value": 9.57,
-    "pnl": -0.43
-   },
-   {
-    "title": "Will the highest temperature in Wellington be 16\u00b0C on July 16?",
-    "outcome": "No",
-    "shares": 33.33,
-    "avg_price": 0.3,
-    "cur_price": 0.285,
-    "value": 9.5,
-    "pnl": -0.5
+    "cur_price": 0.395,
+    "value": 9.52,
+    "pnl": -0.48
    },
    {
     "title": "Will the highest temperature in Shanghai be 38\u00b0C on July 16?",
     "outcome": "No",
     "shares": 19.8,
     "avg_price": 0.505,
-    "cur_price": 0.47,
-    "value": 9.31,
-    "pnl": -0.69
-   },
-   {
-    "title": "Will the highest temperature in Tel Aviv be 32\u00b0C on July 16?",
-    "outcome": "No",
-    "shares": 28.17,
-    "avg_price": 0.355,
-    "cur_price": 0.325,
-    "value": 9.15,
-    "pnl": -0.85
+    "cur_price": 0.475,
+    "value": 9.41,
+    "pnl": -0.59
    },
    {
     "title": "Will the highest temperature in Madrid be 35\u00b0C on July 16?",
     "outcome": "No",
     "shares": 19.8,
     "avg_price": 0.505,
-    "cur_price": 0.46,
-    "value": 9.11,
-    "pnl": -0.89
+    "cur_price": 0.465,
+    "value": 9.21,
+    "pnl": -0.79
    },
    {
     "title": "Will the highest temperature in London be 29\u00b0C on July 16?",
     "outcome": "Yes",
     "shares": 38.46,
     "avg_price": 0.26,
-    "cur_price": 0.235,
-    "value": 9.04,
-    "pnl": -0.96
+    "cur_price": 0.225,
+    "value": 8.65,
+    "pnl": -1.35
    },
    {
-    "title": "Will the highest temperature in Hong Kong be 29\u00b0C on July 16?",
+    "title": "Will the highest temperature in Tel Aviv be 32\u00b0C on July 16?",
+    "outcome": "No",
+    "shares": 28.17,
+    "avg_price": 0.355,
+    "cur_price": 0.285,
+    "value": 8.03,
+    "pnl": -1.97
+   },
+   {
+    "title": "Will the highest temperature in Hong Kong be 30\u00b0C on July 16?",
     "outcome": "Yes",
-    "shares": 41.67,
-    "avg_price": 0.24,
-    "cur_price": 0.185,
-    "value": 7.71,
-    "pnl": -2.29
+    "shares": 133.33,
+    "avg_price": 0.075,
+    "cur_price": 0.06,
+    "value": 8.0,
+    "pnl": -2.0
    },
    {
     "title": "Will the highest temperature in London be 28\u00b0C on July 16?",
@@ -307,9 +343,18 @@
     "outcome": "No",
     "shares": 12.51,
     "avg_price": 0.7995,
-    "cur_price": 0.604,
-    "value": 7.55,
-    "pnl": -2.45
+    "cur_price": 0.5035,
+    "value": 6.3,
+    "pnl": -3.7
+   },
+   {
+    "title": "Will the highest temperature in Hong Kong be 29\u00b0C on July 16?",
+    "outcome": "Yes",
+    "shares": 41.67,
+    "avg_price": 0.24,
+    "cur_price": 0.14,
+    "value": 5.83,
+    "pnl": -4.17
    },
    {
     "title": "Will the highest temperature in Mexico City be 24\u00b0C on July 15?",
@@ -343,7 +388,7 @@
  "stats": {
   "news": {
    "settled": 115,
-   "open": 35,
+   "open": 40,
    "wins": 56,
    "win_rate": 0.487,
    "pnl": -12.05
@@ -357,66 +402,6 @@
   }
  },
  "fills": [
-  {
-   "ts": 1783794043,
-   "side": "SELL",
-   "token": "30913397751896359842026925670448571656936593386060693129609887220372084816111",
-   "title": "Will the highest temperature in London be 27\u00b0C on July 5?",
-   "outcome": "Yes",
-   "price": 0.0,
-   "shares": 132.4503,
-   "usd": 0.0,
-   "copied_from": "resolution",
-   "trader_tx": "redeem"
-  },
-  {
-   "ts": 1783794043,
-   "side": "SELL",
-   "token": "3025999156856896048810290035519968141761504688247332420864963493246988609316",
-   "title": "Will the highest temperature in London be 29\u00b0C on July 5?",
-   "outcome": "No",
-   "price": 1.0,
-   "shares": 18.5185,
-   "usd": 18.52,
-   "copied_from": "resolution",
-   "trader_tx": "redeem"
-  },
-  {
-   "ts": 1783794043,
-   "side": "SELL",
-   "token": "94641364757090465373089788098402781917650487609966630611204524358815635056479",
-   "title": "Will the highest temperature in Seoul be 26\u00b0C on July 5?",
-   "outcome": "Yes",
-   "price": 0.0,
-   "shares": 190.4762,
-   "usd": 0.0,
-   "copied_from": "resolution",
-   "trader_tx": "redeem"
-  },
-  {
-   "ts": 1783794043,
-   "side": "SELL",
-   "token": "35153803066494103339320801663209165945175998975801848114772087496193575152017",
-   "title": "Will the highest temperature in Seoul be 28\u00b0C on July 5?",
-   "outcome": "No",
-   "price": 1.0,
-   "shares": 18.6916,
-   "usd": 18.69,
-   "copied_from": "resolution",
-   "trader_tx": "redeem"
-  },
-  {
-   "ts": 1783794043,
-   "side": "SELL",
-   "token": "44083571184250682455567250848092795232850525716152495686319001859312742196110",
-   "title": "Will the highest temperature in Seoul be 29\u00b0C on July 5?",
-   "outcome": "No",
-   "price": 1.0,
-   "shares": 12.4224,
-   "usd": 12.42,
-   "copied_from": "resolution",
-   "trader_tx": "redeem"
-  },
   {
    "ts": 1783794043,
    "side": "SELL",
@@ -1556,154 +1541,69 @@
    "usd": 10.0,
    "copied_from": "news:forecast",
    "trader_tx": "news-fd19494e0654"
+  },
+  {
+   "ts": 1784160595,
+   "side": "BUY",
+   "token": "41028843727668111530680193701844291096694536324603181815205870770402822177316",
+   "title": "Will the highest temperature in Warsaw be 28\u00b0C on July 16?",
+   "outcome": "Yes",
+   "price": 0.12,
+   "shares": 83.3333,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-9116a95683c3"
+  },
+  {
+   "ts": 1784160595,
+   "side": "BUY",
+   "token": "55759398223777616850458285064962480942730118016703594157823584678347637992278",
+   "title": "Will the highest temperature in Warsaw be 29\u00b0C on July 16?",
+   "outcome": "No",
+   "price": 0.485,
+   "shares": 20.6186,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-cdaa40db6821"
+  },
+  {
+   "ts": 1784160595,
+   "side": "BUY",
+   "token": "94816176306344714261006374189644268687599204007247580526201308289555450005883",
+   "title": "Will the highest temperature in Warsaw be 30\u00b0C on July 16?",
+   "outcome": "No",
+   "price": 0.63,
+   "shares": 15.873,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-7e6799ed2d8c"
+  },
+  {
+   "ts": 1784160595,
+   "side": "BUY",
+   "token": "17735004831930123618985778640448127416442388926885369413848589748565583688416",
+   "title": "Will the highest temperature in Taipei be 35\u00b0C on July 16?",
+   "outcome": "No",
+   "price": 0.8,
+   "shares": 12.5,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-32304fc3448e"
+  },
+  {
+   "ts": 1784160596,
+   "side": "BUY",
+   "token": "42426923828063425304964172969855326438937149731721278548379149039888119789298",
+   "title": "Will the highest temperature in Taipei be 36\u00b0C on July 16?",
+   "outcome": "No",
+   "price": 0.455,
+   "shares": 21.978,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-04191c1a740f"
   }
  ],
  "journal": [
-  {
-   "ts": 1783039354,
-   "date": "2026-07-02",
-   "signal": "news",
-   "strategy_version": 1,
-   "token": "1979362455012489016427167029393521958710121973659716110969867732385745234227",
-   "market_slug": "highest-temperature-in-warsaw-on-july-3-2026-22c",
-   "question": "Will the highest temperature in Warsaw be 22\u00b0C on July 3?",
-   "side": "YES",
-   "entry_price": 0.09,
-   "usd": 10.0,
-   "reasoning": {
-    "forecast_tmax": 22.4,
-    "sigma": 1.8,
-    "model_p": 0.2136,
-    "market_p": 0.09,
-    "edge": 0.1236,
-    "lead_days": 1,
-    "city": "Warsaw",
-    "unit": "C",
-    "bucket": [
-     21.5,
-     22.5
-    ]
-   },
-   "status": "lost",
-   "pnl": -10.0,
-   "settled_ts": 1783197518
-  },
-  {
-   "ts": 1783039355,
-   "date": "2026-07-02",
-   "signal": "news",
-   "strategy_version": 1,
-   "token": "93871438206409294179774450237821915672560200116129535978570084866711826730215",
-   "market_slug": "highest-temperature-in-taipei-on-july-3-2026-37c",
-   "question": "Will the highest temperature in Taipei be 37\u00b0C on July 3?",
-   "side": "NO",
-   "entry_price": 0.8255,
-   "usd": 10.0,
-   "reasoning": {
-    "forecast_tmax": 33.6,
-    "sigma": 1.8,
-    "model_p": 0.9616,
-    "market_p": 0.8255,
-    "edge": 0.1361,
-    "lead_days": 1,
-    "city": "Taipei",
-    "unit": "C",
-    "bucket": [
-     36.5,
-     37.5
-    ]
-   },
-   "status": "won",
-   "pnl": 2.11,
-   "settled_ts": 1783105213
-  },
-  {
-   "ts": 1783039357,
-   "date": "2026-07-02",
-   "signal": "news",
-   "strategy_version": 1,
-   "token": "46970869542019257805809583587517589982965950765176820871703712985088373823992",
-   "market_slug": "highest-temperature-in-moscow-on-july-3-2026-27c",
-   "question": "Will the highest temperature in Moscow be 27\u00b0C on July 3?",
-   "side": "NO",
-   "entry_price": 0.63,
-   "usd": 10.0,
-   "reasoning": {
-    "forecast_tmax": 25.9,
-    "sigma": 1.8,
-    "model_p": 0.8176,
-    "market_p": 0.63,
-    "edge": 0.1876,
-    "lead_days": 1,
-    "city": "Moscow",
-    "unit": "C",
-    "bucket": [
-     26.5,
-     27.5
-    ]
-   },
-   "status": "lost",
-   "pnl": -10.0,
-   "settled_ts": 1783197518
-  },
-  {
-   "ts": 1783039357,
-   "date": "2026-07-02",
-   "signal": "news",
-   "strategy_version": 1,
-   "token": "10488375416347607977489780860471372754297109287199617368212090496657214005438",
-   "market_slug": "highest-temperature-in-istanbul-on-july-3-2026-28c",
-   "question": "Will the highest temperature in Istanbul be 28\u00b0C on July 3?",
-   "side": "NO",
-   "entry_price": 0.4,
-   "usd": 10.0,
-   "reasoning": {
-    "forecast_tmax": 29.5,
-    "sigma": 1.8,
-    "model_p": 0.844,
-    "market_p": 0.4,
-    "edge": 0.444,
-    "lead_days": 1,
-    "city": "Istanbul",
-    "unit": "C",
-    "bucket": [
-     27.5,
-     28.5
-    ]
-   },
-   "status": "won",
-   "pnl": 15.0,
-   "settled_ts": 1783197518
-  },
-  {
-   "ts": 1783039358,
-   "date": "2026-07-02",
-   "signal": "news",
-   "strategy_version": 1,
-   "token": "109843382901858730382156157870981976489679855245831370705406151827303706984635",
-   "market_slug": "highest-temperature-in-busan-on-july-3-2026-27c",
-   "question": "Will the highest temperature in Busan be 27\u00b0C on July 3?",
-   "side": "NO",
-   "entry_price": 0.445,
-   "usd": 10.0,
-   "reasoning": {
-    "forecast_tmax": 25.4,
-    "sigma": 1.8,
-    "model_p": 0.8511,
-    "market_p": 0.445,
-    "edge": 0.4061,
-    "lead_days": 1,
-    "city": "Busan",
-    "unit": "C",
-    "bucket": [
-     26.5,
-     27.5
-    ]
-   },
-   "status": "won",
-   "pnl": 12.47,
-   "settled_ts": 1783105213
-  },
   {
    "ts": 1783104765,
    "date": "2026-07-03",
@@ -4415,6 +4315,146 @@
     "edge": 0.314,
     "lead_days": 1,
     "city": "Madrid",
+    "unit": "C",
+    "bucket": [
+     35.5,
+     36.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
+  },
+  {
+   "ts": 1784160595,
+   "date": "2026-07-15",
+   "signal": "news",
+   "strategy_version": 2,
+   "token": "41028843727668111530680193701844291096694536324603181815205870770402822177316",
+   "market_slug": "highest-temperature-in-warsaw-on-july-16-2026-28c",
+   "question": "Will the highest temperature in Warsaw be 28\u00b0C on July 16?",
+   "side": "YES",
+   "entry_price": 0.12,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 29.0,
+    "sigma": 0.99,
+    "model_p": 0.2419,
+    "market_p": 0.12,
+    "edge": 0.1219,
+    "lead_days": 1,
+    "city": "Warsaw",
+    "unit": "C",
+    "bucket": [
+     27.5,
+     28.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
+  },
+  {
+   "ts": 1784160595,
+   "date": "2026-07-15",
+   "signal": "news",
+   "strategy_version": 2,
+   "token": "55759398223777616850458285064962480942730118016703594157823584678347637992278",
+   "market_slug": "highest-temperature-in-warsaw-on-july-16-2026-29c",
+   "question": "Will the highest temperature in Warsaw be 29\u00b0C on July 16?",
+   "side": "NO",
+   "entry_price": 0.485,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 29.0,
+    "sigma": 0.99,
+    "model_p": 0.6135,
+    "market_p": 0.485,
+    "edge": 0.1285,
+    "lead_days": 1,
+    "city": "Warsaw",
+    "unit": "C",
+    "bucket": [
+     28.5,
+     29.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
+  },
+  {
+   "ts": 1784160595,
+   "date": "2026-07-15",
+   "signal": "news",
+   "strategy_version": 2,
+   "token": "94816176306344714261006374189644268687599204007247580526201308289555450005883",
+   "market_slug": "highest-temperature-in-warsaw-on-july-16-2026-30c",
+   "question": "Will the highest temperature in Warsaw be 30\u00b0C on July 16?",
+   "side": "NO",
+   "entry_price": 0.63,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 29.0,
+    "sigma": 0.99,
+    "model_p": 0.7581,
+    "market_p": 0.63,
+    "edge": 0.1281,
+    "lead_days": 1,
+    "city": "Warsaw",
+    "unit": "C",
+    "bucket": [
+     29.5,
+     30.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
+  },
+  {
+   "ts": 1784160595,
+   "date": "2026-07-15",
+   "signal": "news",
+   "strategy_version": 2,
+   "token": "17735004831930123618985778640448127416442388926885369413848589748565583688416",
+   "market_slug": "highest-temperature-in-taipei-on-july-16-2026-35c",
+   "question": "Will the highest temperature in Taipei be 35\u00b0C on July 16?",
+   "side": "NO",
+   "entry_price": 0.8,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 32.8,
+    "sigma": 0.99,
+    "model_p": 0.9602,
+    "market_p": 0.8,
+    "edge": 0.1602,
+    "lead_days": 1,
+    "city": "Taipei",
+    "unit": "C",
+    "bucket": [
+     34.5,
+     35.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
+  },
+  {
+   "ts": 1784160596,
+   "date": "2026-07-15",
+   "signal": "news",
+   "strategy_version": 2,
+   "token": "42426923828063425304964172969855326438937149731721278548379149039888119789298",
+   "market_slug": "highest-temperature-in-taipei-on-july-16-2026-36c",
+   "question": "Will the highest temperature in Taipei be 36\u00b0C on July 16?",
+   "side": "NO",
+   "entry_price": 0.465,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 32.8,
+    "sigma": 0.99,
+    "model_p": 0.9969,
+    "market_p": 0.465,
+    "edge": 0.5319,
+    "lead_days": 1,
+    "city": "Taipei",
     "unit": "C",
     "bucket": [
      35.5,
