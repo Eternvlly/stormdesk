@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-24T19:19:59.502062+00:00",
+ "generated_at": "2026-07-24T19:30:04.154715+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -18,19 +18,19 @@
  "strategy_history": [],
  "portfolio": {
   "cash": 556.78,
-  "positions_value": 128.18,
-  "total": 684.96,
+  "positions_value": 136.78,
+  "total": 693.56,
   "starting": 1000.0,
-  "pnl": -315.04,
+  "pnl": -306.44,
   "positions": [
    {
     "title": "Will the highest temperature in Seoul be 32\u00b0C or higher on July 25?",
     "outcome": "Yes",
     "shares": 148.15,
     "avg_price": 0.0675,
-    "cur_price": 0.09,
-    "value": 13.33,
-    "pnl": 3.33
+    "cur_price": 0.096,
+    "value": 14.22,
+    "pnl": 4.22
    },
    {
     "title": "Will the highest temperature in Toronto be 26\u00b0C on July 24?",
@@ -42,76 +42,85 @@
     "pnl": 3.05
    },
    {
-    "title": "Will the highest temperature in Buenos Aires be 18\u00b0C on July 24?",
-    "outcome": "No",
-    "shares": 12.05,
-    "avg_price": 0.83,
-    "cur_price": 0.985,
-    "value": 11.87,
-    "pnl": 1.87
-   },
-   {
     "title": "Will the highest temperature in Mexico City be 29\u00b0C on July 24?",
     "outcome": "Yes",
     "shares": 95.24,
     "avg_price": 0.105,
-    "cur_price": 0.11,
-    "value": 10.48,
-    "pnl": 0.48
-   },
-   {
-    "title": "Will the highest temperature in Toronto be 24\u00b0C on July 24?",
-    "outcome": "Yes",
-    "shares": 88.89,
-    "avg_price": 0.1125,
-    "cur_price": 0.1145,
-    "value": 10.18,
-    "pnl": 0.18
-   },
-   {
-    "title": "Will the highest temperature in Paris be 30\u00b0C on July 25?",
-    "outcome": "No",
-    "shares": 20.62,
-    "avg_price": 0.485,
-    "cur_price": 0.485,
-    "value": 10.0,
-    "pnl": 0.0
-   },
-   {
-    "title": "Will the highest temperature in Seoul be 29\u00b0C on July 25?",
-    "outcome": "No",
-    "shares": 13.25,
-    "avg_price": 0.755,
-    "cur_price": 0.755,
-    "value": 10.0,
-    "pnl": 0.0
+    "cur_price": 0.135,
+    "value": 12.86,
+    "pnl": 2.86
    },
    {
     "title": "Will the highest temperature in Panama City be 31\u00b0C on July 24?",
     "outcome": "No",
     "shares": 13.25,
     "avg_price": 0.755,
-    "cur_price": 0.75,
-    "value": 9.93,
-    "pnl": -0.07
+    "cur_price": 0.845,
+    "value": 11.19,
+    "pnl": 1.19
    },
    {
-    "title": "Will the highest temperature in Mexico City be 27\u00b0C on July 24?",
+    "title": "Will the highest temperature in Buenos Aires be 17\u00b0C on July 24?",
     "outcome": "No",
-    "shares": 14.29,
-    "avg_price": 0.7,
-    "cur_price": 0.67,
-    "value": 9.57,
-    "pnl": -0.43
+    "shares": 44.44,
+    "avg_price": 0.225,
+    "cur_price": 0.24,
+    "value": 10.67,
+    "pnl": 0.67
+   },
+   {
+    "title": "Will the highest temperature in Paris be 30\u00b0C on July 25?",
+    "outcome": "No",
+    "shares": 20.62,
+    "avg_price": 0.485,
+    "cur_price": 0.495,
+    "value": 10.21,
+    "pnl": 0.21
+   },
+   {
+    "title": "Will the highest temperature in Seoul be 29\u00b0C on July 25?",
+    "outcome": "No",
+    "shares": 13.25,
+    "avg_price": 0.755,
+    "cur_price": 0.765,
+    "value": 10.13,
+    "pnl": 0.13
    },
    {
     "title": "Will the highest temperature in Mexico City be 26\u00b0C on July 24?",
     "outcome": "No",
     "shares": 11.98,
     "avg_price": 0.835,
+    "cur_price": 0.8,
+    "value": 9.58,
+    "pnl": -0.42
+   },
+   {
+    "title": "Will the highest temperature in Buenos Aires be 18\u00b0C on July 24?",
+    "outcome": "No",
+    "shares": 12.05,
+    "avg_price": 0.83,
     "cur_price": 0.79,
-    "value": 9.46,
-    "pnl": -0.54
+    "value": 9.52,
+    "pnl": -0.48
+   },
+   {
+    "title": "Will the highest temperature in Mexico City be 27\u00b0C on July 24?",
+    "outcome": "No",
+    "shares": 14.29,
+    "avg_price": 0.7,
+    "cur_price": 0.63,
+    "value": 9.0,
+    "pnl": -1.0
+   },
+   {
+    "title": "Will the highest temperature in Toronto be 24\u00b0C on July 24?",
+    "outcome": "Yes",
+    "shares": 88.89,
+    "avg_price": 0.1125,
+    "cur_price": 0.1005,
+    "value": 8.93,
+    "pnl": -1.07
    },
    {
     "title": "Will the highest temperature in Mexico City be 28\u00b0C on July 24?",
@@ -127,18 +136,9 @@
     "outcome": "No",
     "shares": 29.41,
     "avg_price": 0.34,
-    "cur_price": 0.25,
-    "value": 7.35,
-    "pnl": -2.65
-   },
-   {
-    "title": "Will the highest temperature in Buenos Aires be 17\u00b0C on July 24?",
-    "outcome": "No",
-    "shares": 44.44,
-    "avg_price": 0.225,
-    "cur_price": 0.055,
-    "value": 2.44,
-    "pnl": -7.56
+    "cur_price": 0.235,
+    "value": 6.91,
+    "pnl": -3.09
    },
    {
     "title": "Will the highest temperature in Sao Paulo be 17\u00b0C on July 24?",
