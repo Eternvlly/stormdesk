@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-24T18:28:57.675275+00:00",
+ "generated_at": "2026-07-24T18:39:13.136513+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -18,28 +18,28 @@
  "strategy_history": [],
  "portfolio": {
   "cash": 251.96,
-  "positions_value": 742.88,
-  "total": 994.84,
+  "positions_value": 743.51,
+  "total": 995.47,
   "starting": 1000.0,
-  "pnl": -5.16,
+  "pnl": -4.53,
   "positions": [
-   {
-    "title": "Will the highest temperature in Toronto be 26\u00b0C on July 24?",
-    "outcome": "No",
-    "shares": 19.05,
-    "avg_price": 0.525,
-    "cur_price": 0.55,
-    "value": 10.48,
-    "pnl": 0.48
-   },
    {
     "title": "Will the highest temperature in Buenos Aires be 18\u00b0C on July 24?",
     "outcome": "No",
     "shares": 12.05,
     "avg_price": 0.83,
-    "cur_price": 0.86,
-    "value": 10.36,
-    "pnl": 0.36
+    "cur_price": 0.92,
+    "value": 11.08,
+    "pnl": 1.08
+   },
+   {
+    "title": "Will the highest temperature in Toronto be 26\u00b0C on July 24?",
+    "outcome": "No",
+    "shares": 19.05,
+    "avg_price": 0.525,
+    "cur_price": 0.545,
+    "value": 10.38,
+    "pnl": 0.38
    },
    {
     "title": "Will the highest temperature in Mexico City be 24\u00b0C on July 15?",
@@ -676,9 +676,9 @@
     "outcome": "No",
     "shares": 14.29,
     "avg_price": 0.7,
-    "cur_price": 0.68,
-    "value": 9.71,
-    "pnl": -0.29
+    "cur_price": 0.665,
+    "value": 9.5,
+    "pnl": -0.5
    },
    {
     "title": "Will the highest temperature in Mexico City be 26\u00b0C on July 24?",
@@ -694,9 +694,9 @@
     "outcome": "No",
     "shares": 44.44,
     "avg_price": 0.225,
-    "cur_price": 0.09,
-    "value": 4.0,
-    "pnl": -6.0
+    "cur_price": 0.095,
+    "value": 4.22,
+    "pnl": -5.78
    }
   ]
  },
