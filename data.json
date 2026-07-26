@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-24T23:06:06.658520+00:00",
+ "generated_at": "2026-07-26T03:24:45.997008+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -17,83 +17,119 @@
  },
  "strategy_history": [],
  "portfolio": {
-  "cash": 456.78,
-  "positions_value": 183.36,
-  "total": 640.14,
+  "cash": 406.78,
+  "positions_value": 365.75,
+  "total": 772.52,
   "starting": 1000.0,
-  "pnl": -359.86,
+  "pnl": -227.48,
   "positions": [
    {
-    "title": "Will the highest temperature in Toronto be 26\u00b0C on July 24?",
-    "outcome": "No",
-    "shares": 19.05,
-    "avg_price": 0.525,
-    "cur_price": 0.9985,
-    "value": 19.02,
-    "pnl": 9.02
-   },
-   {
-    "title": "Will the highest temperature in Seoul be 32\u00b0C or higher on July 25?",
+    "title": "Will the highest temperature in Hong Kong be 34\u00b0C on July 25?",
     "outcome": "Yes",
-    "shares": 148.15,
-    "avg_price": 0.0675,
-    "cur_price": 0.1195,
-    "value": 17.7,
-    "pnl": 7.7
-   },
-   {
-    "title": "Will the highest temperature in London be 30\u00b0C on July 25?",
-    "outcome": "Yes",
-    "shares": 142.86,
-    "avg_price": 0.07,
-    "cur_price": 0.1,
-    "value": 14.29,
-    "pnl": 4.29
-   },
-   {
-    "title": "Will the highest temperature in Panama City be 31\u00b0C on July 24?",
-    "outcome": "No",
-    "shares": 13.25,
-    "avg_price": 0.755,
+    "shares": 64.52,
+    "avg_price": 0.155,
     "cur_price": 0.9995,
-    "value": 13.24,
-    "pnl": 3.24
+    "value": 64.48,
+    "pnl": 54.48
+   },
+   {
+    "title": "Will the highest temperature in Hong Kong be 33\u00b0C on July 25?",
+    "outcome": "No",
+    "shares": 17.39,
+    "avg_price": 0.575,
+    "cur_price": 0.9995,
+    "value": 17.38,
+    "pnl": 7.38
+   },
+   {
+    "title": "Will the highest temperature in Hong Kong be 32\u00b0C on July 25?",
+    "outcome": "No",
+    "shares": 13.89,
+    "avg_price": 0.72,
+    "cur_price": 0.9995,
+    "value": 13.88,
+    "pnl": 3.88
+   },
+   {
+    "title": "Will the highest temperature in Buenos Aires be 17\u00b0C on July 24?",
+    "outcome": "No",
+    "shares": 44.44,
+    "avg_price": 0.225,
+    "cur_price": 0.225,
+    "value": 10.0,
+    "pnl": 0.0
    },
    {
     "title": "Will the highest temperature in Buenos Aires be 18\u00b0C on July 24?",
     "outcome": "No",
     "shares": 12.05,
     "avg_price": 0.83,
-    "cur_price": 0.9995,
-    "value": 12.04,
-    "pnl": 2.04
+    "cur_price": 0.83,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Toronto be 26\u00b0C on July 24?",
+    "outcome": "No",
+    "shares": 19.05,
+    "avg_price": 0.525,
+    "cur_price": 0.525,
+    "value": 10.0,
+    "pnl": 0.0
    },
    {
     "title": "Will the highest temperature in Mexico City be 26\u00b0C on July 24?",
     "outcome": "No",
     "shares": 11.98,
     "avg_price": 0.835,
-    "cur_price": 0.9995,
-    "value": 11.97,
-    "pnl": 1.97
+    "cur_price": 0.835,
+    "value": 10.0,
+    "pnl": 0.0
    },
    {
-    "title": "Will the highest temperature in Tel Aviv be 33\u00b0C on July 25?",
-    "outcome": "Yes",
-    "shares": 64.52,
-    "avg_price": 0.155,
-    "cur_price": 0.18,
-    "value": 11.61,
-    "pnl": 1.61
-   },
-   {
-    "title": "Will the highest temperature in Ankara be 20\u00b0C on July 25?",
+    "title": "Will the highest temperature in Mexico City be 27\u00b0C on July 24?",
     "outcome": "No",
-    "shares": 14.81,
-    "avg_price": 0.675,
-    "cur_price": 0.685,
-    "value": 10.15,
-    "pnl": 0.15
+    "shares": 14.29,
+    "avg_price": 0.7,
+    "cur_price": 0.7,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Sao Paulo be 17\u00b0C on July 24?",
+    "outcome": "No",
+    "shares": 166.67,
+    "avg_price": 0.06,
+    "cur_price": 0.06,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Sao Paulo be 18\u00b0C on July 24?",
+    "outcome": "Yes",
+    "shares": 181.82,
+    "avg_price": 0.055,
+    "cur_price": 0.055,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Mexico City be 29\u00b0C on July 24?",
+    "outcome": "Yes",
+    "shares": 95.24,
+    "avg_price": 0.105,
+    "cur_price": 0.105,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Panama City be 30\u00b0C on July 24?",
+    "outcome": "No",
+    "shares": 29.41,
+    "avg_price": 0.34,
+    "cur_price": 0.34,
+    "value": 10.0,
+    "pnl": 0.0
    },
    {
     "title": "Will the highest temperature in Paris be 30\u00b0C on July 25?",
@@ -101,6 +137,51 @@
     "shares": 20.62,
     "avg_price": 0.485,
     "cur_price": 0.485,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Toronto be 24\u00b0C on July 24?",
+    "outcome": "Yes",
+    "shares": 88.89,
+    "avg_price": 0.1125,
+    "cur_price": 0.1125,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Mexico City be 28\u00b0C on July 24?",
+    "outcome": "Yes",
+    "shares": 46.51,
+    "avg_price": 0.215,
+    "cur_price": 0.215,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Panama City be 31\u00b0C on July 24?",
+    "outcome": "No",
+    "shares": 13.25,
+    "avg_price": 0.755,
+    "cur_price": 0.755,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Seoul be 29\u00b0C on July 25?",
+    "outcome": "No",
+    "shares": 13.25,
+    "avg_price": 0.755,
+    "cur_price": 0.755,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Seoul be 32\u00b0C or higher on July 25?",
+    "outcome": "Yes",
+    "shares": 148.15,
+    "avg_price": 0.0675,
+    "cur_price": 0.0675,
     "value": 10.0,
     "pnl": 0.0
    },
@@ -114,146 +195,110 @@
     "pnl": 0.0
    },
    {
-    "title": "Will the highest temperature in Seoul be 29\u00b0C on July 25?",
-    "outcome": "No",
-    "shares": 13.25,
-    "avg_price": 0.755,
-    "cur_price": 0.74,
-    "value": 9.8,
-    "pnl": -0.2
+    "title": "Will the highest temperature in London be 30\u00b0C on July 25?",
+    "outcome": "Yes",
+    "shares": 142.86,
+    "avg_price": 0.07,
+    "cur_price": 0.07,
+    "value": 10.0,
+    "pnl": 0.0
    },
    {
     "title": "Will the highest temperature in Ankara be 19\u00b0C on July 25?",
     "outcome": "No",
     "shares": 12.9,
     "avg_price": 0.775,
-    "cur_price": 0.74,
-    "value": 9.55,
-    "pnl": -0.45
+    "cur_price": 0.775,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Ankara be 20\u00b0C on July 25?",
+    "outcome": "No",
+    "shares": 14.81,
+    "avg_price": 0.675,
+    "cur_price": 0.675,
+    "value": 10.0,
+    "pnl": 0.0
    },
    {
     "title": "Will the highest temperature in Ankara be 21\u00b0C on July 25?",
     "outcome": "Yes",
     "shares": 43.48,
     "avg_price": 0.23,
-    "cur_price": 0.215,
-    "value": 9.35,
-    "pnl": -0.65
-   },
-   {
-    "title": "Will the highest temperature in Tel Aviv be 34\u00b0C on July 25?",
-    "outcome": "No",
-    "shares": 27.03,
-    "avg_price": 0.37,
-    "cur_price": 0.315,
-    "value": 8.51,
-    "pnl": -1.49
-   },
-   {
-    "title": "Will the highest temperature in Ankara be 22\u00b0C on July 25?",
-    "outcome": "Yes",
-    "shares": 95.24,
-    "avg_price": 0.105,
-    "cur_price": 0.085,
-    "value": 8.1,
-    "pnl": -1.9
-   },
-   {
-    "title": "Will the highest temperature in Wellington be 12\u00b0C on July 25?",
-    "outcome": "No",
-    "shares": 250.0,
-    "avg_price": 0.04,
-    "cur_price": 0.02,
-    "value": 5.0,
-    "pnl": -5.0
-   },
-   {
-    "title": "Will the highest temperature in Mexico City be 28\u00b0C on July 24?",
-    "outcome": "Yes",
-    "shares": 46.51,
-    "avg_price": 0.215,
-    "cur_price": 0.025,
-    "value": 1.16,
-    "pnl": -8.84
-   },
-   {
-    "title": "Will the highest temperature in Mexico City be 29\u00b0C on July 24?",
-    "outcome": "Yes",
-    "shares": 95.24,
-    "avg_price": 0.105,
-    "cur_price": 0.0085,
-    "value": 0.81,
-    "pnl": -9.19
-   },
-   {
-    "title": "Will the highest temperature in Sao Paulo be 17\u00b0C on July 24?",
-    "outcome": "No",
-    "shares": 166.67,
-    "avg_price": 0.06,
-    "cur_price": 0.003,
-    "value": 0.5,
-    "pnl": -9.5
-   },
-   {
-    "title": "Will the highest temperature in Mexico City be 27\u00b0C on July 24?",
-    "outcome": "No",
-    "shares": 14.29,
-    "avg_price": 0.7,
-    "cur_price": 0.02,
-    "value": 0.29,
-    "pnl": -9.71
+    "cur_price": 0.23,
+    "value": 10.0,
+    "pnl": 0.0
    },
    {
     "title": "Will the highest temperature in Toronto be 25\u00b0C on July 24?",
     "outcome": "No",
     "shares": 54.05,
     "avg_price": 0.185,
-    "cur_price": 0.002,
-    "value": 0.11,
-    "pnl": -9.89
+    "cur_price": 0.185,
+    "value": 10.0,
+    "pnl": 0.0
    },
    {
-    "title": "Will the highest temperature in Sao Paulo be 18\u00b0C on July 24?",
+    "title": "Will the highest temperature in Ankara be 22\u00b0C on July 25?",
     "outcome": "Yes",
-    "shares": 181.82,
-    "avg_price": 0.055,
-    "cur_price": 0.0005,
-    "value": 0.09,
-    "pnl": -9.91
+    "shares": 95.24,
+    "avg_price": 0.105,
+    "cur_price": 0.105,
+    "value": 10.0,
+    "pnl": 0.0
    },
    {
-    "title": "Will the highest temperature in Toronto be 24\u00b0C on July 24?",
+    "title": "Will the highest temperature in Wellington be 12\u00b0C on July 25?",
+    "outcome": "No",
+    "shares": 250.0,
+    "avg_price": 0.04,
+    "cur_price": 0.04,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Tel Aviv be 33\u00b0C on July 25?",
     "outcome": "Yes",
-    "shares": 88.89,
-    "avg_price": 0.1125,
-    "cur_price": 0.0005,
-    "value": 0.04,
-    "pnl": -9.96
+    "shares": 64.52,
+    "avg_price": 0.155,
+    "cur_price": 0.155,
+    "value": 10.0,
+    "pnl": 0.0
    },
    {
-    "title": "Will the highest temperature in Buenos Aires be 17\u00b0C on July 24?",
+    "title": "Will the highest temperature in Tel Aviv be 34\u00b0C on July 25?",
     "outcome": "No",
-    "shares": 44.44,
-    "avg_price": 0.225,
-    "cur_price": 0.0005,
-    "value": 0.02,
-    "pnl": -9.98
+    "shares": 27.03,
+    "avg_price": 0.37,
+    "cur_price": 0.37,
+    "value": 10.0,
+    "pnl": 0.0
    },
    {
-    "title": "Will the highest temperature in Panama City be 30\u00b0C on July 24?",
+    "title": "Will the highest temperature in Seoul be 30\u00b0C on July 25?",
     "outcome": "No",
-    "shares": 29.41,
-    "avg_price": 0.34,
-    "cur_price": 0.0005,
-    "value": 0.01,
-    "pnl": -9.99
+    "shares": 16.26,
+    "avg_price": 0.615,
+    "cur_price": 0.615,
+    "value": 10.0,
+    "pnl": 0.0
+   },
+   {
+    "title": "Will the highest temperature in Tokyo be 33\u00b0C on July 25?",
+    "outcome": "No",
+    "shares": 16.53,
+    "avg_price": 0.605,
+    "cur_price": 0.605,
+    "value": 10.0,
+    "pnl": 0.0
    }
   ]
  },
  "stats": {
   "news": {
    "settled": 185,
-   "open": 25,
+   "open": 30,
    "wins": 83,
    "win_rate": 0.449,
    "pnl": -306.01
@@ -267,66 +312,6 @@
   }
  },
  "fills": [
-  {
-   "ts": 1784169967,
-   "side": "BUY",
-   "token": "111626157337410017059333658562557562982859819671538765112218812244133308543673",
-   "title": "Will the highest temperature in Chongqing be 39\u00b0C on July 16?",
-   "outcome": "Yes",
-   "price": 0.105,
-   "shares": 95.2381,
-   "usd": 10.0,
-   "copied_from": "news:forecast",
-   "trader_tx": "news-7a3a6575d450"
-  },
-  {
-   "ts": 1784169968,
-   "side": "BUY",
-   "token": "76997639934472251567014787700856489419755252694126831346056524346442512169800",
-   "title": "Will the highest temperature in Wuhan be 37\u00b0C on July 16?",
-   "outcome": "No",
-   "price": 0.41,
-   "shares": 24.3902,
-   "usd": 10.0,
-   "copied_from": "news:forecast",
-   "trader_tx": "news-fa813a87d9db"
-  },
-  {
-   "ts": 1784169968,
-   "side": "BUY",
-   "token": "84547098775406461127721642469076365733252823764642515530512702540698835626571",
-   "title": "Will the highest temperature in Busan be 32\u00b0C on July 16?",
-   "outcome": "No",
-   "price": 0.795,
-   "shares": 12.5786,
-   "usd": 10.0,
-   "copied_from": "news:forecast",
-   "trader_tx": "news-2e58513b25b4"
-  },
-  {
-   "ts": 1784169969,
-   "side": "BUY",
-   "token": "27633874939313510294233836056888259048248705844673098664658413825993961194528",
-   "title": "Will the highest temperature in Busan be 34\u00b0C on July 16?",
-   "outcome": "No",
-   "price": 0.805,
-   "shares": 12.4224,
-   "usd": 10.0,
-   "copied_from": "news:forecast",
-   "trader_tx": "news-f37924447629"
-  },
-  {
-   "ts": 1784169969,
-   "side": "BUY",
-   "token": "26485950801303939192989058777042557616852119411442088606023232667902605143163",
-   "title": "Will the highest temperature in Amsterdam be 25\u00b0C on July 16?",
-   "outcome": "No",
-   "price": 0.49,
-   "shares": 20.4082,
-   "usd": 10.0,
-   "copied_from": "news:forecast",
-   "trader_tx": "news-20ada70ece21"
-  },
   {
    "ts": 1784916517,
    "side": "BUY",
@@ -1466,154 +1451,69 @@
    "usd": 10.0,
    "copied_from": "news:forecast",
    "trader_tx": "news-2a78bdcfd7fd"
+  },
+  {
+   "ts": 1784934580,
+   "side": "BUY",
+   "token": "62353648400561920601083278943209031448630971686535173865440262652468917034273",
+   "title": "Will the highest temperature in Seoul be 30\u00b0C on July 25?",
+   "outcome": "No",
+   "price": 0.615,
+   "shares": 16.2602,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-2ce868fc0680"
+  },
+  {
+   "ts": 1784934581,
+   "side": "BUY",
+   "token": "62636984764326152330900662070570266684021855414429793255002112689091513000560",
+   "title": "Will the highest temperature in Tokyo be 33\u00b0C on July 25?",
+   "outcome": "No",
+   "price": 0.605,
+   "shares": 16.5289,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-229e13fd0ec3"
+  },
+  {
+   "ts": 1784934581,
+   "side": "BUY",
+   "token": "84136887953338024754895453606615907387507802935603233306412924655539834091881",
+   "title": "Will the highest temperature in Hong Kong be 32\u00b0C on July 25?",
+   "outcome": "No",
+   "price": 0.72,
+   "shares": 13.8889,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-cc65f46b4918"
+  },
+  {
+   "ts": 1784934582,
+   "side": "BUY",
+   "token": "49063737571208840144951550574889936779028872254143378295128756457030578485449",
+   "title": "Will the highest temperature in Hong Kong be 33\u00b0C on July 25?",
+   "outcome": "No",
+   "price": 0.575,
+   "shares": 17.3913,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-39c1c3b8dd1b"
+  },
+  {
+   "ts": 1784934582,
+   "side": "BUY",
+   "token": "63205425518615833278880234897551546113505525841431715476715871090337722544617",
+   "title": "Will the highest temperature in Hong Kong be 34\u00b0C on July 25?",
+   "outcome": "Yes",
+   "price": 0.155,
+   "shares": 64.5161,
+   "usd": 10.0,
+   "copied_from": "news:forecast",
+   "trader_tx": "news-bad53621d5b0"
   }
  ],
  "journal": [
-  {
-   "ts": 1784056656,
-   "date": "2026-07-14",
-   "signal": "news",
-   "strategy_version": 2,
-   "token": "71324154766226584733879910372289352227030127497966125910014347346307428720392",
-   "market_slug": "highest-temperature-in-toronto-on-july-14-2026-36c",
-   "question": "Will the highest temperature in Toronto be 36\u00b0C on July 14?",
-   "side": "NO",
-   "entry_price": 0.78,
-   "usd": 10.0,
-   "reasoning": {
-    "forecast_tmax": 38.0,
-    "sigma": 0.66,
-    "model_p": 0.9886,
-    "market_p": 0.78,
-    "edge": 0.2086,
-    "lead_days": 0,
-    "city": "Toronto",
-    "unit": "C",
-    "bucket": [
-     35.5,
-     36.5
-    ]
-   },
-   "status": "lost",
-   "pnl": -10.0,
-   "settled_ts": 1784151240
-  },
-  {
-   "ts": 1784056656,
-   "date": "2026-07-14",
-   "signal": "news",
-   "strategy_version": 2,
-   "token": "67212860386701608039729056942831779329699374350190991510169034477718528960331",
-   "market_slug": "highest-temperature-in-toronto-on-july-14-2026-37c",
-   "question": "Will the highest temperature in Toronto be 37\u00b0C on July 14?",
-   "side": "NO",
-   "entry_price": 0.38,
-   "usd": 10.0,
-   "reasoning": {
-    "forecast_tmax": 38.0,
-    "sigma": 0.66,
-    "model_p": 0.7872,
-    "market_p": 0.38,
-    "edge": 0.4072,
-    "lead_days": 0,
-    "city": "Toronto",
-    "unit": "C",
-    "bucket": [
-     36.5,
-     37.5
-    ]
-   },
-   "status": "won",
-   "pnl": 16.32,
-   "settled_ts": 1784151240
-  },
-  {
-   "ts": 1784056657,
-   "date": "2026-07-14",
-   "signal": "news",
-   "strategy_version": 2,
-   "token": "42140938487155203997497270624109717888122993116492020306091081655018241036685",
-   "market_slug": "highest-temperature-in-toronto-on-july-14-2026-38c",
-   "question": "Will the highest temperature in Toronto be 38\u00b0C on July 14?",
-   "side": "YES",
-   "entry_price": 0.095,
-   "usd": 10.0,
-   "reasoning": {
-    "forecast_tmax": 38.0,
-    "sigma": 0.66,
-    "model_p": 0.5513,
-    "market_p": 0.095,
-    "edge": 0.4563,
-    "lead_days": 0,
-    "city": "Toronto",
-    "unit": "C",
-    "bucket": [
-     37.5,
-     38.5
-    ]
-   },
-   "status": "lost",
-   "pnl": -10.0,
-   "settled_ts": 1784151240
-  },
-  {
-   "ts": 1784056657,
-   "date": "2026-07-14",
-   "signal": "news",
-   "strategy_version": 2,
-   "token": "64087498111976330125473284067624682942896054524149375119061589102675956817995",
-   "market_slug": "highest-temperature-in-dallas-on-july-14-2026-94forhigher",
-   "question": "Will the highest temperature in Dallas be 94\u00b0F or higher on July 14?",
-   "side": "NO",
-   "entry_price": 0.835,
-   "usd": 10.0,
-   "reasoning": {
-    "forecast_tmax": 90.5,
-    "sigma": 1.19,
-    "model_p": 0.9942,
-    "market_p": 0.835,
-    "edge": 0.1592,
-    "lead_days": 0,
-    "city": "Dallas",
-    "unit": "F",
-    "bucket": [
-     93.5,
-     1000000000.0
-    ]
-   },
-   "status": "won",
-   "pnl": 1.98,
-   "settled_ts": 1784151241
-  },
-  {
-   "ts": 1784056659,
-   "date": "2026-07-14",
-   "signal": "news",
-   "strategy_version": 2,
-   "token": "50455471879838995094518485574102253684856859013218256204150759418131525664454",
-   "market_slug": "highest-temperature-in-mexico-city-on-july-14-2026-24c",
-   "question": "Will the highest temperature in Mexico City be 24\u00b0C on July 14?",
-   "side": "YES",
-   "entry_price": 0.095,
-   "usd": 10.0,
-   "reasoning": {
-    "forecast_tmax": 24.0,
-    "sigma": 0.66,
-    "model_p": 0.5513,
-    "market_p": 0.095,
-    "edge": 0.4563,
-    "lead_days": 0,
-    "city": "Mexico City",
-    "unit": "C",
-    "bucket": [
-     23.5,
-     24.5
-    ]
-   },
-   "status": "lost",
-   "pnl": -10.0,
-   "settled_ts": 1784151241
-  },
   {
    "ts": 1784147609,
    "date": "2026-07-15",
@@ -4335,6 +4235,146 @@
     "edge": 0.5137,
     "lead_days": 1,
     "city": "Tel Aviv",
+    "unit": "C",
+    "bucket": [
+     33.5,
+     34.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
+  },
+  {
+   "ts": 1784934580,
+   "date": "2026-07-24",
+   "signal": "news",
+   "strategy_version": 2,
+   "token": "62353648400561920601083278943209031448630971686535173865440262652468917034273",
+   "market_slug": "highest-temperature-in-seoul-on-july-25-2026-30c",
+   "question": "Will the highest temperature in Seoul be 30\u00b0C on July 25?",
+   "side": "NO",
+   "entry_price": 0.615,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 30.9,
+    "sigma": 0.99,
+    "model_p": 0.7356,
+    "market_p": 0.615,
+    "edge": 0.1206,
+    "lead_days": 1,
+    "city": "Seoul",
+    "unit": "C",
+    "bucket": [
+     29.5,
+     30.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
+  },
+  {
+   "ts": 1784934581,
+   "date": "2026-07-24",
+   "signal": "news",
+   "strategy_version": 2,
+   "token": "62636984764326152330900662070570266684021855414429793255002112689091513000560",
+   "market_slug": "highest-temperature-in-tokyo-on-july-25-2026-33c",
+   "question": "Will the highest temperature in Tokyo be 33\u00b0C on July 25?",
+   "side": "NO",
+   "entry_price": 0.605,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 33.9,
+    "sigma": 0.99,
+    "model_p": 0.7356,
+    "market_p": 0.605,
+    "edge": 0.1306,
+    "lead_days": 1,
+    "city": "Tokyo",
+    "unit": "C",
+    "bucket": [
+     32.5,
+     33.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
+  },
+  {
+   "ts": 1784934581,
+   "date": "2026-07-24",
+   "signal": "news",
+   "strategy_version": 2,
+   "token": "84136887953338024754895453606615907387507802935603233306412924655539834091881",
+   "market_slug": "highest-temperature-in-hong-kong-on-july-25-2026-32c",
+   "question": "Will the highest temperature in Hong Kong be 32\u00b0C on July 25?",
+   "side": "NO",
+   "entry_price": 0.715,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 33.9,
+    "sigma": 0.99,
+    "model_p": 0.929,
+    "market_p": 0.715,
+    "edge": 0.214,
+    "lead_days": 1,
+    "city": "Hong Kong",
+    "unit": "C",
+    "bucket": [
+     31.5,
+     32.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
+  },
+  {
+   "ts": 1784934582,
+   "date": "2026-07-24",
+   "signal": "news",
+   "strategy_version": 2,
+   "token": "49063737571208840144951550574889936779028872254143378295128756457030578485449",
+   "market_slug": "highest-temperature-in-hong-kong-on-july-25-2026-33c",
+   "question": "Will the highest temperature in Hong Kong be 33\u00b0C on July 25?",
+   "side": "NO",
+   "entry_price": 0.575,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 33.9,
+    "sigma": 0.99,
+    "model_p": 0.7356,
+    "market_p": 0.575,
+    "edge": 0.1606,
+    "lead_days": 1,
+    "city": "Hong Kong",
+    "unit": "C",
+    "bucket": [
+     32.5,
+     33.5
+    ]
+   },
+   "status": "open",
+   "pnl": null
+  },
+  {
+   "ts": 1784934582,
+   "date": "2026-07-24",
+   "signal": "news",
+   "strategy_version": 2,
+   "token": "63205425518615833278880234897551546113505525841431715476715871090337722544617",
+   "market_slug": "highest-temperature-in-hong-kong-on-july-25-2026-34c",
+   "question": "Will the highest temperature in Hong Kong be 34\u00b0C on July 25?",
+   "side": "YES",
+   "entry_price": 0.155,
+   "usd": 10.0,
+   "reasoning": {
+    "forecast_tmax": 33.9,
+    "sigma": 0.99,
+    "model_p": 0.3847,
+    "market_p": 0.155,
+    "edge": 0.2297,
+    "lead_days": 1,
+    "city": "Hong Kong",
     "unit": "C",
     "bucket": [
      33.5,
