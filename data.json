@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-26T03:34:56.918699+00:00",
+ "generated_at": "2026-07-26T19:22:56.301950+00:00",
  "mode": "paper",
  "strategy": {
   "version": 2,
@@ -18,10 +18,10 @@
  "strategy_history": [],
  "portfolio": {
   "cash": 356.78,
-  "positions_value": 414.92,
-  "total": 771.69,
+  "positions_value": 464.76,
+  "total": 821.53,
   "starting": 1000.0,
-  "pnl": -228.31,
+  "pnl": -178.47,
   "positions": [
    {
     "title": "Will the highest temperature in Hong Kong be 34\u00b0C on July 25?",
@@ -33,6 +33,15 @@
     "pnl": 54.48
    },
    {
+    "title": "Will the highest temperature in Paris be 26\u00b0C on July 26?",
+    "outcome": "Yes",
+    "shares": 50.0,
+    "avg_price": 0.2,
+    "cur_price": 0.998,
+    "value": 49.9,
+    "pnl": 39.9
+   },
+   {
     "title": "Will the highest temperature in Hong Kong be 33\u00b0C on July 25?",
     "outcome": "No",
     "shares": 17.39,
@@ -40,6 +49,33 @@
     "cur_price": 0.9995,
     "value": 17.38,
     "pnl": 7.38
+   },
+   {
+    "title": "Will the highest temperature in London be 26\u00b0C on July 26?",
+    "outcome": "No",
+    "shares": 17.09,
+    "avg_price": 0.585,
+    "cur_price": 0.9995,
+    "value": 17.09,
+    "pnl": 7.09
+   },
+   {
+    "title": "Will the highest temperature in Paris be 24\u00b0C on July 26?",
+    "outcome": "No",
+    "shares": 16.0,
+    "avg_price": 0.625,
+    "cur_price": 0.9995,
+    "value": 15.99,
+    "pnl": 5.99
+   },
+   {
+    "title": "Will the highest temperature in Paris be 25\u00b0C on July 26?",
+    "outcome": "No",
+    "shares": 16.0,
+    "avg_price": 0.625,
+    "cur_price": 0.9995,
+    "value": 15.99,
+    "pnl": 5.99
    },
    {
     "title": "Will the highest temperature in Hong Kong be 32\u00b0C on July 25?",
@@ -294,49 +330,13 @@
     "pnl": 0.0
    },
    {
-    "title": "Will the highest temperature in London be 26\u00b0C on July 26?",
-    "outcome": "No",
-    "shares": 17.09,
-    "avg_price": 0.585,
-    "cur_price": 0.585,
-    "value": 10.0,
-    "pnl": 0.0
-   },
-   {
-    "title": "Will the highest temperature in Paris be 24\u00b0C on July 26?",
-    "outcome": "No",
-    "shares": 16.0,
-    "avg_price": 0.625,
-    "cur_price": 0.625,
-    "value": 10.0,
-    "pnl": 0.0
-   },
-   {
-    "title": "Will the highest temperature in Paris be 25\u00b0C on July 26?",
-    "outcome": "No",
-    "shares": 16.0,
-    "avg_price": 0.625,
-    "cur_price": 0.625,
-    "value": 10.0,
-    "pnl": 0.0
-   },
-   {
-    "title": "Will the highest temperature in Paris be 26\u00b0C on July 26?",
-    "outcome": "Yes",
-    "shares": 50.0,
-    "avg_price": 0.2,
-    "cur_price": 0.2,
-    "value": 10.0,
-    "pnl": 0.0
-   },
-   {
     "title": "Will the highest temperature in London be 24\u00b0C on July 26?",
     "outcome": "Yes",
     "shares": 83.33,
     "avg_price": 0.12,
-    "cur_price": 0.11,
-    "value": 9.17,
-    "pnl": -0.83
+    "cur_price": 0.0005,
+    "value": 0.04,
+    "pnl": -9.96
    }
   ]
  },
